@@ -1,0 +1,1516 @@
+  lote_ID,prueba,Equipo,resultado,Linea_produccion,hora_muestreo,Dia
+L-2024-0157,Peso promedio,Termobalanza-01,Alerta,Linea A,16:02:20,Miercoles
+L-2024-0176,pH,Durometro-01,Conforme,Linea A,08:58:33,Lunes
+L-2024-0194,Disolucion 30 min,Disolutor-01,Conforme,Linea A,15:30:07,Miercoles
+L-2024-0006,Disolucion 30 min,Durometro-02,Conforme,Linea A,14:22:50,Martes
+L-2024-0158,Tiempo de desintegracion,HPLC-02,Conforme,Linea A,15:18:46,Jueves
+L-2024-0259,Friabilidad,Durometro-02,Conforme,linea b,06:45:50,Martes
+L-2024-0220,Peso promedio,Disolutor-01,Conforme,Linea A,07:10:59,Viernes
+L-2024-0042,Espesor,HPLC-02,Alerta,Linea B,12:22:08,Lunes
+L-2024-0146,Espesor,Balanza-03,Conforme,Linea B,21:21:42,Miercoles
+L-2024-0127,Tiempo de desintegracion,Disolutor-01,Conforme,Linea B,15:41:51,Lunes
+L-2024-0062,Peso promedio,,Conforme,Linea B,12:34:20,Miercoles
+L-2024-0189,Peso promedio,Balanza-03,Conforme,Linea A,12:01:32,Viernes
+L-2024-0216,pH,Balanza-03,Alerta,Linea A,21:50:57,Viernes
+L-2024-0084,Espesor,Balanza-03,Conforme,Linea B,21:08:13,Martes
+L-2024-0148,Disolucion 30 min,HPLC-02,Conforme,Linea A,15:21:03,Lunes
+L-2024-0239,Tiempo de desintegracion,Durometro-01,Conforme,Linea B,06:38:29,Martes
+L-2024-0230,Peso promedio,Balanza-04,Conforme,linea a,08:03:17,Martes
+L-2024-0139,Humedad,Durometro-01,Conforme,Linea A,16:15:36,Martes
+L-2024-0078,Disolucion 30 min,HPLC-01,Conforme,Linea A,21:08:32,Lunes
+L-2024-0071,Peso promedio,Balanza-03,Alerta,linea b,19:04:56,Viernes
+L-2024-0029,Uniformidad de contenido,Balanza-04,Fuera de Especificacion (OOS),Linea B,09:18:23,Lunes
+L-2024-0174,Humedad,phmetro-01,Conforme,Linea A,13:25:43,Jueves
+L-2024-0179,Espesor,Disolutor-01,Conforme,Linea A,07:19:12,Viernes
+L-2024-0174,Dureza,HPLC-01,Conforme,Linea A,10:10:16,Lunes
+L-2024-0164,pH,HPLC-02,Conforme,Linea A,14:30:04,Lunes
+L-2024-0087,Tiempo de desintegracion,Durometro-01,Conforme,Linea B,19:09:08,Viernes
+L-2024-0205,Tiempo de desintegracion,HPLC-02,Conforme,Linea A,17:42:37,Martes
+L-2024-0161,Friabilidad,HPLC-02,Conforme,Linea A,10:43:16,Miercoles
+L-2024-0008,Dureza,phmetro-01,Conforme,Linea A,15:39:37,Viernes
+L-2024-0196,Dureza,Balanza-03,Conforme,Linea B,07:36:37,Martes
+L-2024-0247,Humedad,Durometro-01,Alerta,Linea A,07:04:03,Lunes
+L-2024-0200,pH,Durometro-02,Conforme,Linea A,20:39:33,Viernes
+L-2024-0136,Friabilidad,Durometro-02,Alerta,Linea B,06:01:42,Lunes
+L-2024-0039,Friabilidad,Balanza-04,Fuera de Tendencia (OOT),linea b,18:25:07,Lunes
+L-2024-0159,pH,Disolutor-02,Conforme,Linea B,21:44:33,Martes
+L-2024-0047,Humedad,Balanza-04,Alerta,Linea B,06:10:56,Lunes
+L-2024-0221,Disolucion 30 min,Disolutor-01,Conforme,Linea A,16:37:56,Martes
+L-2024-0061,Tiempo de desintegracion,Durometro-02,Conforme,Linea A,15:09:01,Lunes
+L-2024-0041,Uniformidad de contenido,HPLC-01,Alerta,Linea B,10:11:59,Martes
+L-2024-0067,Humedad,Disolutor-01,Alerta,Linea A,06:58:51,Lunes
+L-2024-0080,Dureza,HPLC-02,Conforme,Linea B,14:13:31,Viernes
+L-2024-0041,Uniformidad de contenido,Durometro-01,Conforme,Linea A,12:24:26,Lunes
+L-2024-0145,pH,Durometro-02,Conforme,Linea B,15:33:30,Miercoles
+L-2024-0158,Friabilidad,phmetro-01,Conforme,Linea B,10:55:53,Jueves
+L-2024-0035,Espesor,Balanza-04,Alerta,Linea A,19:20:23,Jueves
+L-2024-0046,pH,,Conforme,Linea A,13:58:07,Miercoles
+L-2024-0203,Disolucion 30 min,Balanza-03,Alerta,Linea A,15:09:29,Lunes
+L-2024-0237,Espesor,Balanza-03,Fuera de Especificacion (OOS),Linea B,06:31:16,Martes
+L-2024-0177,Dureza,Disolutor-02,Conforme,Linea A,09:30:56,Martes
+L-2024-0044,Dureza,HPLC-01,Conforme,Linea B,15:36:03,Miercoles
+L-2024-0249,Humedad,Balanza-03,Alerta,Linea B,21:53:24,Jueves
+L-2024-0182,Humedad,phmetro-01,Conforme,Linea A,12:56:29,Miercoles
+L-2024-0007,Friabilidad,Durometro-01,Conforme,Linea A,06:44:01,Jueves
+L-2024-0103,Disolucion 30 min,phmetro-01,Conforme,Linea A,20:59:46,Lunes
+L-2024-0135,Tiempo de desintegracion,Durometro-01,Conforme,Linea B,17:23:25,Jueves
+L-2024-0173,Dureza,Disolutor-02,Conforme,Linea A,19:02:05,Miercoles
+L-2024-0228,Espesor,Disolutor-02,Alerta,Linea A,20:23:49,Miercoles
+L-2024-0068,Dureza,Termobalanza-01,Conforme,Linea A,12:07:28,Jueves
+L-2024-0205,Friabilidad,Durometro-02,Fuera de Especificacion (OOS),Linea B,07:18:20,Viernes
+L-2024-0035,Tiempo de desintegracion,Disolutor-02,Alerta,Linea A,19:56:27,Viernes
+L-2024-0133,Dureza,Durometro-02,Conforme,Linea B,12:30:57,Miercoles
+L-2024-0251,Friabilidad,Disolutor-01,Conforme,Linea A,12:41:34,Martes
+L-2024-0019,pH,Balanza-03,Conforme,Linea A,15:15:07,Martes
+L-2024-0094,Humedad,Durometro-01,Conforme,Linea A,13:14:25,Viernes
+L-2024-0099,Espesor,HPLC-02,Conforme,Linea B,06:23:39,Miercoles
+L-2024-0186,Espesor,Balanza-04,Conforme,Linea A,06:42:55,Jueves
+L-2024-0037,pH,Balanza-03,Conforme,Linea A,14:50:00,Miercoles
+L-2024-0026,Disolucion 30 min,Disolutor-01,Conforme,Linea A,15:34:07,Jueves
+L-2024-0252,Disolucion 30 min,Durometro-02,Conforme,Linea B,09:02:44,Jueves
+L-2024-0056,Dureza,Durometro-02,Conforme,Linea B,06:38:57,Miercoles
+L-2024-0067,Tiempo de desintegracion,HPLC-01,Fuera de Tendencia (OOT),Linea B,07:01:08,Miercoles
+L-2024-0185,Humedad,Balanza-03,Conforme,Linea A,18:01:47,Lunes
+L-2024-0251,Peso promedio,Disolutor-01,Conforme,Linea A,06:31:09,Lunes
+L-2024-0177,Peso promedio,Disolutor-01,Conforme,Linea A,18:34:22,Viernes
+L-2024-0237,Espesor,phmetro-01,Conforme,Linea B,08:53:23,Miercoles
+L-2024-0005,pH,Balanza-04,Fuera de Especificacion (OOS),Linea A,11:10:08,Martes
+L-2024-0071,Peso promedio,Balanza-04,Conforme,Linea A,20:19:28,Miercoles
+L-2024-0216,Disolucion 30 min,Balanza-03,Conforme,Linea B,06:39:54,Martes
+L-2024-0034,Uniformidad de contenido,Disolutor-01,Conforme,Linea A,14:44:45,Lunes
+L-2024-0128,Disolucion 30 min,phmetro-01,Conforme,Linea B,14:30:03,Lunes
+L-2024-0090,Tiempo de desintegracion,Balanza-03,Conforme,Linea A,10:56:51,Jueves
+L-2024-0211,Humedad,Disolutor-01,Conforme,Linea A,13:35:19,Lunes
+L-2024-0068,Peso promedio,Disolutor-02,Conforme,Linea B,07:28:04,Martes
+L-2024-0239,Disolucion 30 min,Termobalanza-01,Conforme,Linea B,21:41:26,Martes
+L-2024-0017,pH,HPLC-01,Conforme,Linea A,10:42:44,Viernes
+L-2024-0199,,Disolutor-02,Conforme,Linea A,20:38:33,Lunes
+L-2024-0133,pH,HPLC-01,Conforme,Linea B,11:05:13,Martes
+L-2024-0236,Dureza,phmetro-01,Conforme,Linea A,10:32:00,Miercoles
+L-2024-0052,Peso promedio,Disolutor-02,Conforme,Linea B,10:31:04,Martes
+L-2024-0047,Espesor,Disolutor-01,Conforme,Linea B,19:06:23,Lunes
+L-2024-0197,Peso promedio,Balanza-03,Conforme,Linea A,10:54:34,Miercoles
+L-2024-0115,Disolucion 30 min,HPLC-01,Conforme,Linea B,19:53:19,Jueves
+L-2024-0142,pH,Durometro-02,Conforme,Linea A,17:17:29,Viernes
+L-2024-0145,Humedad,HPLC-02,Conforme,Linea B,17:53:23,Jueves
+L-2024-0245,Peso promedio,Balanza-03,Alerta,Linea A,08:33:47,Viernes
+L-2024-0173,pH,HPLC-01,Conforme,Linea A,13:33:21,Miercoles
+L-2024-0114,Friabilidad,Durometro-01,Conforme,Linea A,11:27:34,Miercoles
+L-2024-0117,Uniformidad de contenido,Disolutor-02,Alerta,Linea A,17:35:57,Jueves
+L-2024-0133,Disolucion 30 min,Durometro-01,Conforme,Linea A,13:15:59,Martes
+L-2024-0140,Friabilidad,HPLC-01,Conforme,Linea B,10:10:29,Jueves
+L-2024-0171,Espesor,Termobalanza-01,Conforme,Linea B,14:24:52,Lunes
+L-2024-0194,Dureza,HPLC-01,Conforme,Linea A,20:47:30,Viernes
+L-2024-0120,Humedad,Termobalanza-01,Fuera de Especificacion (OOS),Linea A,06:24:28,Miercoles
+L-2024-0141,Peso promedio,Balanza-03,Conforme,Linea A,12:27:03,Martes
+L-2024-0125,Peso promedio,HPLC-01,Alerta,Linea A,07:11:10,Jueves
+L-2024-0102,Friabilidad,HPLC-02,Alerta,Linea A,06:53:25,Martes
+L-2024-0037,Dureza,Disolutor-01,Conforme,Linea A,11:02:13,Jueves
+L-2024-0151,Tiempo de desintegracion,Balanza-03,Alerta,Linea A,07:35:40,Miercoles
+L-2024-0251,Disolucion 30 min,Durometro-01,Alerta,Linea A,15:29:12,Lunes
+L-2024-0080,Humedad,Balanza-04,Conforme,linea a,10:55:49,Jueves
+L-2024-0114,Peso promedio,Disolutor-02,Conforme,Linea A,18:37:43,Martes
+L-2024-0182,Uniformidad de contenido,HPLC-02,Alerta,Linea A,06:57:07,Lunes
+L-2024-0212,Humedad,HPLC-02,Conforme,linea a,18:55:41,Lunes
+L-2024-0028,Friabilidad,Durometro-02,Conforme,Linea B,21:57:38,Viernes
+L-2024-0184,Peso promedio,Disolutor-01,Conforme,Linea B,12:48:00,Miercoles
+L-2024-0076,Peso promedio,Termobalanza-01,Conforme,Linea B,17:11:37,Viernes
+L-2024-0010,Friabilidad,Disolutor-01,Conforme,Linea A,14:08:20,Martes
+L-2024-0209,Peso promedio,Termobalanza-01,Alerta,Linea A,06:00:21,Martes
+L-2024-0063,Espesor,Balanza-04,Conforme,Linea B,06:34:39,Viernes
+L-2024-0086,pH,Balanza-03,Conforme,Linea A,08:38:18,Lunes
+L-2024-0083,Disolucion 30 min,Termobalanza-01,Conforme,Linea B,06:45:59,Martes
+L-2024-0108,Dureza,Termobalanza-01,Conforme,Linea B,18:51:20,Jueves
+L-2024-0111,Peso promedio,Balanza-04,Conforme,Linea A,18:17:57,Miercoles
+L-2024-0212,Peso promedio,Balanza-03,Conforme,Linea B,14:40:40,Martes
+L-2024-0161,Espesor,HPLC-01,Alerta,Linea A,20:35:11,Jueves
+L-2024-0228,pH,Durometro-01,Conforme,Linea B,15:56:06,Lunes
+L-2024-0118,Tiempo de desintegracion,Balanza-03,Conforme,Linea A,06:26:38,Viernes
+L-2024-0133,Espesor,phmetro-01,Conforme,Linea B,08:23:50,Miercoles
+L-2024-0250,pH,HPLC-02,Conforme,Linea B,09:48:36,Miercoles
+L-2024-0074,Tiempo de desintegracion,phmetro-01,Conforme,Linea A,16:03:18,Jueves
+L-2024-0060,Uniformidad de contenido,HPLC-02,Conforme,Linea A,17:46:48,Jueves
+L-2024-0033,Espesor,HPLC-02,Conforme,Linea A,15:59:58,Lunes
+L-2024-0059,Disolucion 30 min,Termobalanza-01,Conforme,Linea A,12:11:46,Jueves
+L-2024-0194,Uniformidad de contenido,Durometro-02,Conforme,linea b,21:12:56,Viernes
+L-2024-0037,pH,Balanza-04,Conforme,Linea A,20:22:34,Viernes
+L-2024-0084,Tiempo de desintegracion,Balanza-04,Alerta,linea b,14:43:35,Lunes
+L-2024-0211,Dureza,Balanza-04,Conforme,Linea B,13:25:01,Martes
+L-2024-0214,Dureza,Balanza-04,Conforme,Linea B,09:48:33,Martes
+L-2024-0003,Humedad,phmetro-01,Alerta,Linea A,12:55:33,Jueves
+L-2024-0260,Humedad,HPLC-02,Conforme,Linea B,09:48:33,Miercoles
+L-2024-0081,Peso promedio,Balanza-04,Conforme,Linea B,09:35:21,Lunes
+L-2024-0154,Disolucion 30 min,Termobalanza-01,Conforme,Linea A,13:07:24,Martes
+L-2024-0258,Disolucion 30 min,phmetro-01,Conforme,Linea B,16:45:40,Miercoles
+L-2024-0085,Peso promedio,Durometro-02,Conforme,Linea A,06:56:58,Miercoles
+L-2024-0041,Humedad,Disolutor-01,Conforme,Linea A,21:20:23,Martes
+L-2024-0211,Peso promedio,Disolutor-02,Conforme,Linea A,21:02:12,Miercoles
+L-2024-0228,Dureza,Disolutor-02,Conforme,Linea A,09:41:32,Viernes
+L-2024-0175,Uniformidad de contenido,HPLC-02,Conforme,Linea B,12:37:55,Lunes
+L-2024-0092,Tiempo de desintegracion,Balanza-04,Conforme,Linea A,14:43:48,Jueves
+L-2024-0156,Tiempo de desintegracion,Durometro-01,Conforme,Linea A,11:00:05,Miercoles
+L-2024-0147,pH,phmetro-01,Conforme,Linea A,07:06:26,Miercoles
+L-2024-0034,Friabilidad,HPLC-02,Conforme,Linea A,11:44:48,Miercoles
+L-2024-0179,Disolucion 30 min,HPLC-01,Conforme,Linea A,21:56:06,Lunes
+L-2024-0023,Peso promedio,Balanza-04,Conforme,Linea A,07:06:19,Martes
+L-2024-0150,Tiempo de desintegracion,Durometro-02,Conforme,Linea B,15:38:40,Lunes
+L-2024-0176,Humedad,HPLC-02,Conforme,Linea B,17:47:54,Lunes
+L-2024-0206,Tiempo de desintegracion,Disolutor-02,Conforme,Linea A,15:42:18,Miercoles
+L-2024-0250,Disolucion 30 min,HPLC-02,Alerta,Linea B,16:38:14,Viernes
+L-2024-0087,Peso promedio,Disolutor-02,Conforme,Linea B,16:41:28,Lunes
+L-2024-0009,Uniformidad de contenido,Termobalanza-01,Conforme,Linea B,07:09:20,Lunes
+L-2024-0122,Humedad,Durometro-02,Conforme,Linea A,15:54:10,Viernes
+L-2024-0251,Friabilidad,Disolutor-02,Conforme,linea a,21:25:17,Martes
+L-2024-0225,pH,phmetro-01,Conforme,Linea B,15:50:52,Miercoles
+L-2024-0186,Tiempo de desintegracion,Disolutor-01,Fuera de Especificacion (OOS),Linea A,21:27:25,Martes
+L-2024-0132,Friabilidad,Durometro-01,Conforme,Linea B,14:11:51,Viernes
+L-2024-0118,Uniformidad de contenido,,Alerta,Linea A,08:57:30,Lunes
+L-2024-0026,Dureza,,Conforme,Linea A,06:07:29,Lunes
+L-2024-0079,Peso promedio,Balanza-03,Conforme,Linea B,11:38:26,Jueves
+L-2024-0084,Dureza,Disolutor-01,Conforme,Linea B,13:02:53,Jueves
+L-2024-0084,Espesor,Balanza-04,Conforme,Linea B,11:35:06,Viernes
+L-2024-0175,Friabilidad,Disolutor-01,Conforme,Linea A,18:41:07,Lunes
+L-2024-0197,Humedad,Balanza-03,Conforme,Linea B,08:47:13,Viernes
+L-2024-0079,Friabilidad,phmetro-01,Conforme,Linea B,15:29:32,Jueves
+L-2024-0127,pH,phmetro-01,Conforme,Linea B,21:11:39,Viernes
+L-2024-0171,Espesor,HPLC-02,Fuera de Especificacion (OOS),Linea B,06:05:13,Viernes
+L-2024-0018,Uniformidad de contenido,Durometro-01,Conforme,Linea A,09:41:17,Jueves
+L-2024-0224,Espesor,HPLC-01,Conforme,Linea B,11:21:03,Jueves
+L-2024-0070,Tiempo de desintegracion,HPLC-01,Fuera de Especificacion (OOS),Linea A,08:57:21,Lunes
+L-2024-0096,Peso promedio,Durometro-01,Conforme,Linea A,21:28:04,Jueves
+L-2024-0073,Tiempo de desintegracion,HPLC-02,Fuera de Especificacion (OOS),Linea A,21:59:22,Jueves
+L-2024-0078,pH,HPLC-01,Alerta,Linea B,20:08:21,Jueves
+L-2024-0088,Espesor,Durometro-02,Conforme,Linea B,15:33:03,Martes
+L-2024-0076,Uniformidad de contenido,Balanza-04,Conforme,Linea A,15:26:44,Lunes
+L-2024-0048,Tiempo de desintegracion,Durometro-02,Conforme,Linea B,11:21:58,Jueves
+L-2024-0041,Dureza,phmetro-01,Conforme,Linea B,19:16:33,Jueves
+L-2024-0229,Disolucion 30 min,Durometro-02,Conforme,Linea B,17:38:12,Lunes
+L-2024-0170,Humedad,Disolutor-02,Conforme,Linea B,11:53:59,Lunes
+L-2024-0087,Friabilidad,Balanza-03,Fuera de Especificacion (OOS),Linea A,12:05:12,Lunes
+L-2024-0015,Humedad,Disolutor-01,Alerta,Linea B,11:14:05,Lunes
+L-2024-0098,pH,Balanza-04,Conforme,linea b,11:43:42,Miercoles
+L-2024-0186,Espesor,HPLC-02,Conforme,Linea B,16:55:05,Jueves
+L-2024-0059,Friabilidad,Disolutor-02,Conforme,Linea A,18:55:33,Miercoles
+L-2024-0107,Humedad,Durometro-01,Conforme,Linea A,08:27:28,Lunes
+L-2024-0246,Humedad,Durometro-01,Conforme,Linea B,16:05:30,Martes
+L-2024-0117,Peso promedio,Durometro-02,Conforme,Linea A,11:59:51,Viernes
+L-2024-0027,Humedad,HPLC-01,Conforme,Linea B,09:24:52,Martes
+L-2024-0053,Disolucion 30 min,Balanza-04,Conforme,Linea A,11:09:50,Lunes
+L-2024-0231,Espesor,phmetro-01,Alerta,Linea B,14:39:25,Lunes
+L-2024-0226,Disolucion 30 min,Durometro-02,Conforme,Linea B,13:15:42,Martes
+L-2024-0008,Espesor,HPLC-01,Fuera de Especificacion (OOS),Linea B,09:46:47,Lunes
+L-2024-0172,Humedad,Balanza-03,Conforme,linea b,06:51:16,Jueves
+L-2024-0059,Friabilidad,HPLC-01,Conforme,Linea A,07:30:26,Lunes
+L-2024-0066,,,Conforme,Linea B,21:17:56,Lunes
+L-2024-0172,Peso promedio,Balanza-04,Conforme,Linea A,16:48:24,Jueves
+L-2024-0151,Dureza,Termobalanza-01,Conforme,Linea A,06:56:45,Martes
+L-2024-0162,Friabilidad,Disolutor-01,Conforme,Linea A,10:03:55,Viernes
+L-2024-0137,Peso promedio,Disolutor-01,Alerta,Linea A,08:57:09,Viernes
+L-2024-0039,Friabilidad,Disolutor-02,Conforme,Linea B,09:18:11,Jueves
+L-2024-0190,Peso promedio,HPLC-02,Conforme,Linea B,19:04:19,Martes
+L-2024-0113,,Balanza-04,Conforme,Linea B,14:31:53,Viernes
+L-2024-0247,Peso promedio,Balanza-04,Conforme,Linea A,21:43:01,Lunes
+L-2024-0172,Disolucion 30 min,HPLC-02,Conforme,Linea A,14:37:39,Lunes
+L-2024-0188,Espesor,Termobalanza-01,Conforme,Linea A,20:14:29,Lunes
+L-2024-0184,Humedad,HPLC-01,Alerta,Linea B,12:00:47,Lunes
+L-2024-0184,Peso promedio,Disolutor-02,Conforme,Linea A,10:11:25,Martes
+L-2024-0142,Dureza,Balanza-04,Conforme,Linea A,20:30:00,Viernes
+L-2024-0223,Espesor,HPLC-01,Conforme,Linea B,12:38:00,Miercoles
+L-2024-0149,Disolucion 30 min,HPLC-02,Conforme,Linea B,11:00:41,Miercoles
+L-2024-0166,Peso promedio,Disolutor-01,Conforme,Linea B,17:42:07,Martes
+L-2024-0052,Disolucion 30 min,Disolutor-02,Alerta,linea b,13:04:29,Viernes
+L-2024-0001,Friabilidad,Balanza-04,Conforme,linea b,09:51:54,Jueves
+L-2024-0244,Tiempo de desintegracion,Disolutor-02,Conforme,Linea A,09:45:57,Jueves
+L-2024-0032,Peso promedio,HPLC-01,Alerta,Linea B,12:06:03,Viernes
+L-2024-0036,Humedad,Disolutor-02,Conforme,Linea A,13:03:12,Viernes
+L-2024-0205,Peso promedio,Durometro-02,Conforme,Linea B,15:22:56,Martes
+L-2024-0012,Espesor,HPLC-01,Alerta,Linea A,11:03:06,Lunes
+L-2024-0160,Uniformidad de contenido,Termobalanza-01,Alerta,Linea A,10:53:21,Jueves
+L-2024-0057,Humedad,Balanza-03,Conforme,Linea B,15:19:32,Martes
+L-2024-0168,Uniformidad de contenido,Balanza-03,Conforme,Linea B,21:15:28,Miercoles
+L-2024-0203,Disolucion 30 min,Balanza-04,Conforme,Linea B,07:43:10,Martes
+L-2024-0213,Uniformidad de contenido,HPLC-02,Conforme,Linea A,13:25:29,Viernes
+L-2024-0082,Peso promedio,phmetro-01,Fuera de Tendencia (OOT),Linea B,10:43:40,Jueves
+L-2024-0041,Friabilidad,Balanza-04,Conforme,Linea A,19:16:47,Viernes
+L-2024-0229,Humedad,Disolutor-02,Conforme,Linea A,13:21:01,Lunes
+L-2024-0133,Dureza,HPLC-01,Conforme,Linea A,18:54:57,Lunes
+L-2024-0061,Peso promedio,Durometro-02,Fuera de Especificacion (OOS),Linea A,06:20:20,Viernes
+L-2024-0128,Tiempo de desintegracion,Durometro-02,Fuera de Especificacion (OOS),Linea A,20:58:05,Jueves
+L-2024-0073,pH,HPLC-02,Conforme,linea a,08:53:29,Jueves
+L-2024-0078,Uniformidad de contenido,Disolutor-01,Conforme,Linea A,15:42:35,Martes
+L-2024-0063,Uniformidad de contenido,,Conforme,Linea B,06:22:18,Viernes
+L-2024-0253,pH,Durometro-01,Alerta,Linea A,16:37:09,Lunes
+L-2024-0210,Humedad,Balanza-03,Conforme,Linea B,09:32:57,Miercoles
+L-2024-0229,Disolucion 30 min,Disolutor-01,Conforme,Linea B,11:54:07,Miercoles
+L-2024-0098,Humedad,Balanza-04,Conforme,Linea B,07:56:29,Martes
+L-2024-0110,pH,Durometro-02,Conforme,Linea A,20:34:16,Jueves
+L-2024-0132,Humedad,,Conforme,Linea A,18:02:52,Martes
+L-2024-0077,,Balanza-04,Conforme,Linea B,14:21:23,Miercoles
+L-2024-0172,Friabilidad,HPLC-02,Conforme,Linea A,20:30:09,Miercoles
+L-2024-0087,Friabilidad,Termobalanza-01,Conforme,Linea B,07:58:52,Lunes
+L-2024-0254,Friabilidad,Balanza-04,Conforme,Linea A,14:50:21,Viernes
+L-2024-0094,Espesor,HPLC-01,Conforme,Linea A,16:44:16,Martes
+L-2024-0253,Uniformidad de contenido,Durometro-01,Fuera de Especificacion (OOS),Linea A,13:07:02,Lunes
+L-2024-0260,Friabilidad,Disolutor-01,Conforme,Linea A,21:53:27,Jueves
+L-2024-0097,pH,Disolutor-02,Conforme,Linea B,09:39:46,Miercoles
+L-2024-0009,Friabilidad,Disolutor-02,Conforme,Linea A,15:47:38,Viernes
+L-2024-0086,Dureza,Durometro-02,Conforme,Linea B,12:24:47,Jueves
+L-2024-0194,Peso promedio,Termobalanza-01,Fuera de Tendencia (OOT),Linea B,09:02:32,Lunes
+L-2024-0202,Uniformidad de contenido,,Alerta,Linea B,11:05:29,Lunes
+L-2024-0215,Tiempo de desintegracion,Balanza-03,Conforme,Linea A,14:44:16,Jueves
+L-2024-0109,Peso promedio,Disolutor-01,Alerta,Linea A,18:48:27,Miercoles
+L-2024-0016,Peso promedio,Balanza-03,Alerta,Linea B,07:30:06,Miercoles
+L-2024-0138,Friabilidad,Balanza-03,Conforme,Linea B,12:44:44,Jueves
+L-2024-0133,Peso promedio,Durometro-01,Conforme,Linea B,21:10:21,Lunes
+L-2024-0223,pH,Termobalanza-01,Conforme,Linea B,16:39:21,Viernes
+L-2024-0226,Friabilidad,Disolutor-02,Alerta,Linea A,07:40:48,Lunes
+L-2024-0226,Peso promedio,Disolutor-02,Conforme,Linea A,11:19:13,Miercoles
+L-2024-0246,Uniformidad de contenido,Balanza-03,Conforme,Linea B,16:38:52,Miercoles
+L-2024-0223,Disolucion 30 min,Disolutor-02,Conforme,Linea A,12:25:35,Miercoles
+L-2024-0002,Uniformidad de contenido,Termobalanza-01,Fuera de Tendencia (OOT),Linea A,19:14:01,Lunes
+L-2024-0244,pH,Durometro-01,Conforme,Linea B,13:05:44,Jueves
+L-2024-0186,Disolucion 30 min,Balanza-04,Conforme,Linea A,21:50:40,Viernes
+L-2024-0256,Humedad,Disolutor-01,Conforme,Linea B,10:26:18,Jueves
+L-2024-0077,Uniformidad de contenido,Balanza-03,Conforme,Linea A,07:08:23,Lunes
+L-2024-0245,Disolucion 30 min,Disolutor-02,Conforme,Linea A,11:34:09,Martes
+L-2024-0157,Uniformidad de contenido,Durometro-02,Conforme,Linea A,19:50:44,Jueves
+L-2024-0200,Tiempo de desintegracion,Durometro-02,Conforme,Linea A,19:50:28,Jueves
+L-2024-0218,Tiempo de desintegracion,Balanza-03,Alerta,Linea B,09:34:01,Martes
+L-2024-0210,Espesor,,Conforme,Linea A,15:59:42,Miercoles
+L-2024-0015,Peso promedio,Disolutor-02,Conforme,Linea B,10:09:27,Lunes
+L-2024-0102,pH,phmetro-01,Conforme,Linea B,11:47:36,Martes
+L-2024-0009,Uniformidad de contenido,phmetro-01,Conforme,Linea B,13:11:50,Miercoles
+L-2024-0046,Humedad,Disolutor-02,Conforme,Linea A,20:37:42,Martes
+L-2024-0049,Tiempo de desintegracion,Termobalanza-01,Conforme,Linea B,08:08:01,Lunes
+L-2024-0043,Humedad,Disolutor-01,Conforme,Linea A,11:03:19,Jueves
+L-2024-0057,pH,Disolutor-01,Conforme,Linea A,08:35:42,Miercoles
+L-2024-0241,,Disolutor-02,Conforme,Linea B,11:22:50,Jueves
+L-2024-0147,Tiempo de desintegracion,HPLC-01,Conforme,Linea A,13:10:11,Miercoles
+L-2024-0201,Friabilidad,Durometro-01,Conforme,Linea B,12:22:50,Jueves
+L-2024-0029,Disolucion 30 min,Balanza-03,Conforme,Linea B,09:25:39,Viernes
+L-2024-0090,Disolucion 30 min,HPLC-02,Conforme,Linea B,19:35:04,Miercoles
+L-2024-0181,Friabilidad,Durometro-02,Conforme,Linea A,13:13:08,Lunes
+L-2024-0135,Humedad,HPLC-01,Conforme,Linea A,09:54:02,Viernes
+L-2024-0167,Disolucion 30 min,Durometro-01,Conforme,Linea B,21:31:06,Miercoles
+L-2024-0259,Uniformidad de contenido,phmetro-01,Conforme,Linea B,07:42:04,Jueves
+L-2024-0026,Uniformidad de contenido,Balanza-03,Conforme,Linea B,06:42:04,Viernes
+L-2024-0001,pH,Balanza-03,Conforme,Linea B,18:43:05,Miercoles
+L-2024-0014,Friabilidad,Durometro-01,Conforme,Linea B,15:03:34,Miercoles
+L-2024-0076,Friabilidad,Balanza-04,Conforme,Linea B,18:48:38,Viernes
+L-2024-0197,Friabilidad,Balanza-03,Alerta,Linea B,11:32:28,Viernes
+L-2024-0105,pH,Disolutor-01,Conforme,Linea B,15:04:02,Lunes
+L-2024-0140,Dureza,Balanza-03,Conforme,Linea A,17:23:40,Lunes
+L-2024-0045,Friabilidad,Termobalanza-01,Conforme,Linea A,18:46:10,Jueves
+L-2024-0176,Humedad,Termobalanza-01,Conforme,Linea A,11:34:32,Martes
+L-2024-0202,Dureza,,Conforme,Linea A,19:09:56,Jueves
+L-2024-0083,Espesor,phmetro-01,Conforme,Linea A,18:52:13,Lunes
+L-2024-0029,Disolucion 30 min,Termobalanza-01,Conforme,Linea A,09:34:45,Miercoles
+L-2024-0075,Tiempo de desintegracion,Balanza-04,Conforme,Linea B,18:14:14,Martes
+L-2024-0112,Disolucion 30 min,Disolutor-01,Conforme,Linea A,07:40:51,Miercoles
+L-2024-0056,Humedad,Balanza-03,Conforme,Linea A,11:11:55,Viernes
+L-2024-0226,Tiempo de desintegracion,HPLC-01,Conforme,Linea A,18:43:17,Jueves
+L-2024-0251,Tiempo de desintegracion,Disolutor-02,Conforme,Linea B,11:28:18,Jueves
+L-2024-0079,Disolucion 30 min,Balanza-03,Conforme,Linea A,09:41:29,Miercoles
+L-2024-0252,Humedad,Durometro-02,Conforme,Linea B,17:08:24,Lunes
+L-2024-0054,Friabilidad,Disolutor-02,Conforme,Linea B,16:48:59,Miercoles
+L-2024-0204,Uniformidad de contenido,Durometro-01,Conforme,Linea A,15:40:20,Lunes
+L-2024-0106,Peso promedio,Disolutor-01,Conforme,linea a,17:56:09,Jueves
+L-2024-0223,Espesor,,Alerta,Linea A,21:55:01,Lunes
+L-2024-0033,Tiempo de desintegracion,Balanza-04,Alerta,Linea A,13:00:33,Viernes
+L-2024-0143,pH,Termobalanza-01,Conforme,Linea A,06:11:25,Lunes
+L-2024-0184,Disolucion 30 min,Disolutor-01,Conforme,Linea B,13:00:01,Miercoles
+L-2024-0162,Tiempo de desintegracion,Disolutor-02,Conforme,linea a,11:33:17,Lunes
+L-2024-0081,Peso promedio,Balanza-04,Fuera de Especificacion (OOS),Linea B,12:01:09,Martes
+L-2024-0144,Disolucion 30 min,Durometro-02,Alerta,Linea B,16:54:23,Miercoles
+L-2024-0136,Peso promedio,phmetro-01,Conforme,Linea B,09:57:49,Jueves
+L-2024-0074,Tiempo de desintegracion,Disolutor-01,Conforme,Linea A,18:06:23,Viernes
+L-2024-0222,Disolucion 30 min,Disolutor-01,Conforme,Linea A,13:50:19,Miercoles
+L-2024-0157,Tiempo de desintegracion,Termobalanza-01,Conforme,Linea A,06:46:50,Martes
+L-2024-0104,pH,HPLC-01,Conforme,Linea B,11:14:25,Jueves
+L-2024-0259,Uniformidad de contenido,Disolutor-01,Conforme,Linea A,10:25:17,Martes
+L-2024-0093,Tiempo de desintegracion,Balanza-03,Conforme,Linea A,06:07:26,Lunes
+L-2024-0045,Uniformidad de contenido,HPLC-01,Conforme,Linea B,15:18:28,Miercoles
+L-2024-0059,pH,Termobalanza-01,Conforme,Linea A,10:04:13,Jueves
+L-2024-0050,,phmetro-01,Conforme,Linea A,12:05:21,Jueves
+L-2024-0226,Humedad,Disolutor-02,Conforme,Linea A,10:35:38,Martes
+L-2024-0083,,Balanza-04,Conforme,Linea A,19:41:13,Lunes
+L-2024-0162,Disolucion 30 min,HPLC-02,Conforme,Linea A,06:47:56,Miercoles
+L-2024-0203,Tiempo de desintegracion,Disolutor-01,Conforme,Linea B,09:34:26,Viernes
+L-2024-0013,Humedad,Durometro-02,Conforme,Linea B,10:22:53,Lunes
+L-2024-0118,Disolucion 30 min,HPLC-02,Conforme,linea a,11:53:40,Miercoles
+L-2024-0071,Tiempo de desintegracion,Durometro-01,Conforme,Linea A,12:51:12,Miercoles
+L-2024-0016,Peso promedio,Balanza-04,Conforme,Linea B,19:03:49,Miercoles
+L-2024-0252,pH,Durometro-02,Conforme,Linea A,13:55:49,Lunes
+L-2024-0018,Uniformidad de contenido,phmetro-01,Alerta,linea a,14:31:42,Lunes
+L-2024-0044,Disolucion 30 min,Disolutor-01,Conforme,Linea B,21:44:20,Lunes
+L-2024-0005,Disolucion 30 min,Durometro-01,Conforme,Linea A,19:17:07,Lunes
+L-2024-0258,Peso promedio,Durometro-01,Conforme,Linea A,07:05:11,Lunes
+L-2024-0006,,Disolutor-01,Conforme,Linea B,21:51:13,Jueves
+L-2024-0196,Espesor,HPLC-01,Alerta,Linea A,11:03:23,Viernes
+L-2024-0230,Tiempo de desintegracion,HPLC-02,Conforme,Linea A,15:11:22,Miercoles
+L-2024-0110,Uniformidad de contenido,HPLC-01,Fuera de Especificacion (OOS),Linea A,08:27:57,Lunes
+L-2024-0174,Uniformidad de contenido,Termobalanza-01,Conforme,Linea A,18:12:54,Jueves
+L-2024-0258,Dureza,HPLC-01,Conforme,Linea B,06:21:55,Viernes
+L-2024-0250,pH,Durometro-01,Conforme,linea b,18:38:30,Miercoles
+L-2024-0174,Friabilidad,Durometro-01,Conforme,Linea A,16:34:33,Martes
+L-2024-0204,Humedad,Balanza-03,Alerta,Linea B,13:27:03,Lunes
+L-2024-0065,Friabilidad,Balanza-04,Conforme,Linea A,06:25:30,Martes
+L-2024-0030,Peso promedio,Disolutor-01,Conforme,Linea B,10:15:50,Martes
+L-2024-0109,Friabilidad,Disolutor-02,Conforme,Linea A,16:18:19,Viernes
+L-2024-0239,Disolucion 30 min,HPLC-02,Conforme,Linea B,10:16:46,Jueves
+L-2024-0201,Disolucion 30 min,Termobalanza-01,Alerta,Linea A,17:43:30,Miercoles
+L-2024-0028,Friabilidad,HPLC-01,Alerta,Linea B,20:40:22,Lunes
+L-2024-0159,Friabilidad,Durometro-01,Conforme,Linea B,14:54:39,Jueves
+L-2024-0058,Peso promedio,Durometro-01,Conforme,Linea A,14:32:23,Martes
+L-2024-0154,Tiempo de desintegracion,Durometro-01,Conforme,Linea A,13:43:19,Miercoles
+L-2024-0041,Disolucion 30 min,HPLC-02,Alerta,Linea A,20:23:15,Jueves
+L-2024-0200,Disolucion 30 min,Disolutor-02,Conforme,Linea A,12:02:01,Lunes
+L-2024-0002,Uniformidad de contenido,HPLC-01,Conforme,Linea B,13:14:06,Jueves
+L-2024-0086,Espesor,Balanza-04,Alerta,Linea B,12:48:56,Miercoles
+L-2024-0250,Peso promedio,HPLC-02,Fuera de Tendencia (OOT),Linea B,07:36:40,Martes
+L-2024-0145,pH,phmetro-01,Conforme,Linea B,12:35:41,Lunes
+L-2024-0002,Disolucion 30 min,Balanza-04,Conforme,Linea B,06:47:15,Viernes
+L-2024-0224,Tiempo de desintegracion,Balanza-03,Fuera de Especificacion (OOS),Linea A,08:37:21,Lunes
+L-2024-0161,Peso promedio,Termobalanza-01,Alerta,Linea A,09:50:08,Miercoles
+L-2024-0009,Friabilidad,Balanza-04,Conforme,Linea A,06:07:19,Martes
+L-2024-0115,Espesor,phmetro-01,Conforme,linea b,17:18:28,Jueves
+L-2024-0166,Disolucion 30 min,Durometro-01,Conforme,Linea B,10:51:53,Martes
+L-2024-0244,Peso promedio,Balanza-03,Fuera de Especificacion (OOS),Linea B,07:47:08,Lunes
+L-2024-0216,Disolucion 30 min,Disolutor-01,Fuera de Tendencia (OOT),linea b,06:39:22,Lunes
+L-2024-0173,Tiempo de desintegracion,Disolutor-01,Conforme,Linea B,08:10:55,Martes
+L-2024-0174,Uniformidad de contenido,Durometro-02,Alerta,Linea A,11:24:29,Viernes
+L-2024-0134,Dureza,phmetro-01,Conforme,Linea B,08:14:48,Martes
+L-2024-0055,Espesor,HPLC-01,Conforme,Linea A,07:06:25,Martes
+L-2024-0034,Humedad,Balanza-04,Conforme,Linea A,21:00:57,Miercoles
+L-2024-0111,Disolucion 30 min,HPLC-01,Conforme,Linea B,14:17:34,Viernes
+L-2024-0019,Friabilidad,Disolutor-02,Conforme,Linea B,11:35:51,Martes
+L-2024-0147,Disolucion 30 min,Balanza-03,Conforme,Linea A,10:26:24,Jueves
+L-2024-0166,Friabilidad,HPLC-01,Conforme,Linea A,06:18:36,Lunes
+L-2024-0255,Espesor,Disolutor-02,Conforme,Linea B,18:56:45,Viernes
+L-2024-0160,Friabilidad,HPLC-02,Conforme,Linea A,15:45:04,Lunes
+L-2024-0063,Friabilidad,Durometro-02,Conforme,Linea A,08:15:12,Lunes
+L-2024-0084,Peso promedio,Durometro-01,Conforme,Linea A,12:01:22,Lunes
+L-2024-0205,Humedad,HPLC-02,Conforme,Linea A,10:24:36,Viernes
+L-2024-0085,pH,phmetro-01,Conforme,Linea A,17:18:04,Viernes
+L-2024-0255,Dureza,Balanza-03,Conforme,Linea A,08:13:20,Martes
+L-2024-0037,Uniformidad de contenido,Disolutor-02,Conforme,Linea A,10:33:08,Viernes
+L-2024-0135,Espesor,Balanza-03,Conforme,Linea B,15:33:54,Miercoles
+L-2024-0152,Espesor,Termobalanza-01,Conforme,Linea A,20:04:10,Miercoles
+L-2024-0165,Disolucion 30 min,Balanza-04,Conforme,Linea A,17:08:56,Jueves
+L-2024-0023,Espesor,phmetro-01,Conforme,Linea A,12:52:45,Jueves
+L-2024-0080,Tiempo de desintegracion,Disolutor-02,Conforme,Linea A,10:32:21,Martes
+L-2024-0082,Peso promedio,Balanza-03,Fuera de Especificacion (OOS),Linea A,07:15:04,Viernes
+L-2024-0106,Dureza,,Conforme,Linea A,07:23:32,Miercoles
+L-2024-0079,pH,Durometro-01,Conforme,Linea A,09:59:53,Jueves
+L-2024-0224,Espesor,Disolutor-02,Conforme,Linea A,13:58:58,Viernes
+L-2024-0097,Espesor,Termobalanza-01,Conforme,Linea A,10:47:56,Miercoles
+L-2024-0199,Friabilidad,Disolutor-01,Conforme,Linea B,07:18:38,Lunes
+L-2024-0097,Uniformidad de contenido,Durometro-02,Conforme,Linea B,14:15:09,Martes
+L-2024-0258,Dureza,Durometro-02,Conforme,Linea A,20:33:38,Viernes
+L-2024-0188,Peso promedio,Balanza-03,Conforme,Linea A,19:25:42,Lunes
+L-2024-0204,Peso promedio,Balanza-04,Alerta,Linea A,08:16:33,Jueves
+L-2024-0205,Espesor,HPLC-01,Conforme,Linea A,11:03:24,Martes
+L-2024-0101,pH,Durometro-01,Alerta,Linea B,13:52:51,Lunes
+L-2024-0096,Tiempo de desintegracion,HPLC-01,Conforme,Linea B,11:07:34,Viernes
+L-2024-0237,Espesor,Disolutor-01,Conforme,Linea B,20:48:31,Martes
+L-2024-0036,Tiempo de desintegracion,HPLC-01,Conforme,Linea A,07:07:55,Viernes
+L-2024-0222,Humedad,Durometro-02,Conforme,Linea A,14:12:56,Viernes
+L-2024-0198,Uniformidad de contenido,Durometro-01,Conforme,Linea A,16:31:55,Jueves
+L-2024-0018,Humedad,Termobalanza-01,Conforme,Linea A,14:46:47,Viernes
+L-2024-0083,Uniformidad de contenido,Termobalanza-01,Conforme,Linea B,16:16:52,Miercoles
+L-2024-0028,Disolucion 30 min,HPLC-02,Conforme,Linea B,17:20:34,Miercoles
+L-2024-0215,pH,Balanza-04,Conforme,Linea B,06:20:34,Viernes
+L-2024-0153,Espesor,HPLC-01,Conforme,Linea A,10:38:38,Miercoles
+L-2024-0068,Humedad,HPLC-02,Conforme,Linea A,09:25:33,Miercoles
+L-2024-0015,Dureza,phmetro-01,Alerta,linea b,19:50:04,Lunes
+L-2024-0256,Humedad,phmetro-01,Conforme,Linea B,19:48:33,Martes
+L-2024-0056,Dureza,Termobalanza-01,Conforme,Linea B,20:18:36,Miercoles
+L-2024-0067,Humedad,Disolutor-01,Conforme,Linea B,21:20:08,Viernes
+L-2024-0091,Humedad,,Conforme,Linea B,20:37:39,Lunes
+L-2024-0219,Disolucion 30 min,HPLC-01,Conforme,Linea B,09:50:48,Jueves
+L-2024-0067,Tiempo de desintegracion,Termobalanza-01,Conforme,Linea B,20:44:00,Miercoles
+L-2024-0242,,HPLC-01,Fuera de Especificacion (OOS),Linea B,17:26:41,Viernes
+L-2024-0175,Disolucion 30 min,Balanza-04,Conforme,Linea A,19:14:20,Lunes
+L-2024-0013,Uniformidad de contenido,Balanza-03,Conforme,Linea A,07:14:38,Lunes
+L-2024-0216,Uniformidad de contenido,Durometro-01,Conforme,Linea B,06:41:50,Jueves
+L-2024-0194,Peso promedio,HPLC-02,Conforme,Linea B,09:12:06,Viernes
+L-2024-0233,pH,HPLC-01,Conforme,Linea B,11:47:06,Lunes
+L-2024-0132,Humedad,Disolutor-02,Fuera de Especificacion (OOS),Linea B,09:05:59,Martes
+L-2024-0221,Peso promedio,Durometro-01,Conforme,Linea A,08:08:09,Jueves
+L-2024-0238,Tiempo de desintegracion,Termobalanza-01,Alerta,Linea A,12:37:17,Miercoles
+L-2024-0029,Tiempo de desintegracion,Disolutor-01,Conforme,Linea B,09:22:32,Martes
+L-2024-0253,Peso promedio,phmetro-01,Conforme,Linea B,16:13:21,Miercoles
+L-2024-0195,Disolucion 30 min,Durometro-02,Conforme,Linea B,06:06:14,Viernes
+L-2024-0073,Friabilidad,Durometro-01,Conforme,Linea B,20:53:55,Jueves
+L-2024-0136,Tiempo de desintegracion,Disolutor-02,Conforme,Linea B,18:56:20,Lunes
+L-2024-0221,Disolucion 30 min,Durometro-01,Conforme,Linea B,15:58:11,Viernes
+L-2024-0041,Dureza,Balanza-03,Conforme,Linea B,17:19:58,Miercoles
+L-2024-0085,Uniformidad de contenido,Durometro-01,Conforme,Linea A,13:13:28,Miercoles
+L-2024-0130,Friabilidad,HPLC-01,Conforme,Linea A,21:16:55,Lunes
+L-2024-0204,Peso promedio,HPLC-01,Conforme,Linea A,08:02:05,Viernes
+L-2024-0062,Uniformidad de contenido,phmetro-01,Conforme,Linea B,09:54:04,Jueves
+L-2024-0097,Uniformidad de contenido,HPLC-02,Conforme,Linea A,16:38:57,Viernes
+L-2024-0138,Uniformidad de contenido,Balanza-04,Conforme,Linea A,18:58:36,Lunes
+L-2024-0204,Peso promedio,Termobalanza-01,Conforme,Linea A,10:49:12,Jueves
+L-2024-0117,Disolucion 30 min,Balanza-04,Conforme,Linea B,06:30:41,Miercoles
+L-2024-0125,Humedad,HPLC-01,Conforme,Linea B,09:50:55,Viernes
+L-2024-0242,Espesor,Durometro-01,Conforme,Linea A,08:20:28,Jueves
+L-2024-0190,Uniformidad de contenido,phmetro-01,Conforme,Linea A,11:16:28,Viernes
+L-2024-0152,Humedad,HPLC-02,Conforme,Linea B,12:11:11,Jueves
+L-2024-0137,Peso promedio,Durometro-02,Conforme,Linea B,07:11:15,Jueves
+L-2024-0248,Dureza,Disolutor-02,Conforme,Linea A,19:29:11,Lunes
+L-2024-0069,Uniformidad de contenido,Disolutor-02,Conforme,Linea B,06:53:06,Lunes
+L-2024-0237,Friabilidad,phmetro-01,Conforme,Linea B,09:54:07,Martes
+L-2024-0022,Dureza,Balanza-03,Conforme,Linea B,13:08:10,Jueves
+L-2024-0027,Espesor,Disolutor-01,Conforme,Linea A,09:35:43,Viernes
+L-2024-0160,Espesor,HPLC-02,Conforme,Linea A,11:30:17,Lunes
+L-2024-0168,Tiempo de desintegracion,Disolutor-01,Alerta,Linea A,10:45:03,Martes
+L-2024-0242,Humedad,phmetro-01,Conforme,Linea A,20:58:43,Viernes
+L-2024-0130,Uniformidad de contenido,Termobalanza-01,Conforme,Linea B,18:58:33,Viernes
+L-2024-0008,Humedad,Balanza-03,Conforme,Linea A,07:32:03,Miercoles
+L-2024-0035,Tiempo de desintegracion,Disolutor-01,Conforme,Linea A,21:55:51,Viernes
+L-2024-0181,Friabilidad,Disolutor-02,Conforme,Linea B,18:56:24,Lunes
+L-2024-0244,pH,phmetro-01,Conforme,Linea B,21:49:22,Jueves
+L-2024-0132,Espesor,Balanza-03,Conforme,Linea A,10:12:22,Jueves
+L-2024-0180,Tiempo de desintegracion,HPLC-01,Conforme,Linea A,14:58:44,Viernes
+L-2024-0248,Humedad,Balanza-04,Conforme,Linea B,09:59:34,Lunes
+L-2024-0074,Espesor,Balanza-03,Conforme,Linea B,15:07:52,Lunes
+L-2024-0095,Uniformidad de contenido,Disolutor-01,Conforme,Linea B,16:55:37,Jueves
+L-2024-0034,Humedad,Disolutor-01,Conforme,Linea B,15:58:37,Jueves
+L-2024-0076,Friabilidad,phmetro-01,Conforme,linea b,13:02:30,Viernes
+L-2024-0126,Friabilidad,phmetro-01,Alerta,Linea A,18:46:57,Martes
+L-2024-0085,Disolucion 30 min,phmetro-01,Conforme,linea a,12:01:41,Viernes
+L-2024-0036,Friabilidad,phmetro-01,Conforme,Linea A,13:56:31,Jueves
+L-2024-0177,Uniformidad de contenido,HPLC-02,Conforme,Linea A,08:21:33,Martes
+L-2024-0143,Peso promedio,Balanza-04,Conforme,Linea B,07:08:15,Viernes
+L-2024-0150,Humedad,HPLC-02,Conforme,Linea A,15:09:50,Lunes
+L-2024-0028,Espesor,HPLC-01,Conforme,Linea A,21:50:32,Jueves
+L-2024-0255,Tiempo de desintegracion,phmetro-01,Conforme,Linea A,07:28:03,Lunes
+L-2024-0012,Dureza,HPLC-01,Conforme,linea a,20:51:06,Jueves
+L-2024-0119,Peso promedio,Disolutor-02,Conforme,Linea B,09:11:24,Miercoles
+L-2024-0167,,Disolutor-02,Alerta,Linea A,11:30:16,Miercoles
+L-2024-0002,Disolucion 30 min,Balanza-03,Alerta,Linea A,07:05:32,Martes
+L-2024-0128,Peso promedio,Disolutor-01,Conforme,Linea B,16:39:11,Martes
+L-2024-0212,Humedad,Termobalanza-01,Conforme,Linea A,17:58:47,Martes
+L-2024-0179,Peso promedio,Durometro-01,Conforme,Linea A,06:37:58,Lunes
+L-2024-0172,Disolucion 30 min,Balanza-04,Conforme,Linea B,07:18:24,Martes
+L-2024-0223,Espesor,Durometro-01,Conforme,Linea A,08:31:12,Lunes
+L-2024-0197,Peso promedio,Disolutor-02,Conforme,Linea A,21:23:51,Lunes
+L-2024-0207,Dureza,Durometro-02,Conforme,Linea A,10:19:11,Viernes
+L-2024-0165,pH,HPLC-02,Conforme,Linea A,17:12:26,Lunes
+L-2024-0225,Peso promedio,HPLC-01,Conforme,Linea A,13:59:09,Miercoles
+L-2024-0119,Espesor,HPLC-02,Conforme,Linea B,21:51:17,Lunes
+L-2024-0015,Espesor,Disolutor-01,Fuera de Especificacion (OOS),Linea A,06:55:45,Miercoles
+L-2024-0147,Tiempo de desintegracion,Disolutor-02,Conforme,Linea A,12:52:41,Miercoles
+L-2024-0105,Dureza,Durometro-02,Alerta,Linea A,06:30:34,Miercoles
+L-2024-0033,Espesor,Durometro-01,Conforme,linea b,11:10:55,Martes
+L-2024-0222,Peso promedio,Durometro-01,Fuera de Especificacion (OOS),Linea B,17:00:34,Jueves
+L-2024-0216,Disolucion 30 min,Disolutor-01,Alerta,Linea A,15:40:10,Jueves
+L-2024-0180,Dureza,Durometro-01,Conforme,Linea B,20:55:51,Lunes
+L-2024-0168,Uniformidad de contenido,Disolutor-01,Conforme,Linea A,09:43:57,Viernes
+L-2024-0250,Friabilidad,Termobalanza-01,Conforme,Linea A,21:34:09,Lunes
+L-2024-0122,Tiempo de desintegracion,HPLC-02,Fuera de Especificacion (OOS),Linea B,11:28:30,Lunes
+L-2024-0190,Espesor,Balanza-04,Conforme,Linea B,16:51:15,Jueves
+L-2024-0232,Peso promedio,Balanza-04,Alerta,Linea B,11:57:36,Viernes
+L-2024-0055,pH,Disolutor-02,Conforme,Linea A,06:28:38,Jueves
+L-2024-0096,Friabilidad,phmetro-01,Conforme,Linea B,06:48:52,Lunes
+L-2024-0071,Disolucion 30 min,Durometro-01,Conforme,Linea B,21:49:31,Martes
+L-2024-0120,Uniformidad de contenido,HPLC-01,Conforme,Linea B,14:17:19,Martes
+L-2024-0215,Friabilidad,Durometro-01,Conforme,Linea B,20:26:08,Lunes
+L-2024-0177,Uniformidad de contenido,HPLC-02,Conforme,Linea B,14:34:31,Viernes
+L-2024-0090,Friabilidad,Durometro-02,Conforme,Linea A,08:27:03,Jueves
+L-2024-0020,Uniformidad de contenido,Durometro-02,Alerta,Linea A,19:41:14,Martes
+L-2024-0187,pH,HPLC-01,Conforme,Linea B,19:19:04,Lunes
+L-2024-0013,Disolucion 30 min,Durometro-01,Conforme,Linea B,11:32:20,Lunes
+L-2024-0051,Tiempo de desintegracion,Durometro-02,Conforme,Linea A,12:43:05,Jueves
+L-2024-0010,Espesor,Disolutor-01,Conforme,Linea B,18:33:24,Miercoles
+L-2024-0088,Humedad,Disolutor-01,Conforme,linea a,16:26:13,Lunes
+L-2024-0153,,Termobalanza-01,Conforme,Linea A,11:13:11,Viernes
+L-2024-0218,pH,Disolutor-02,Conforme,Linea A,12:46:36,Martes
+L-2024-0103,Espesor,Balanza-04,Fuera de Especificacion (OOS),Linea B,09:02:42,Jueves
+L-2024-0118,Humedad,Durometro-01,Alerta,Linea B,15:25:14,Viernes
+L-2024-0174,Disolucion 30 min,Balanza-03,Conforme,Linea B,06:17:55,Jueves
+L-2024-0124,Dureza,HPLC-01,Conforme,Linea A,18:19:55,Lunes
+L-2024-0056,Uniformidad de contenido,Disolutor-02,Conforme,Linea A,11:31:56,Viernes
+L-2024-0046,Peso promedio,Disolutor-01,Conforme,Linea A,13:31:55,Viernes
+L-2024-0203,Peso promedio,HPLC-01,Conforme,Linea B,08:38:35,Lunes
+L-2024-0133,Disolucion 30 min,Durometro-02,Conforme,Linea A,17:52:31,Jueves
+L-2024-0124,Espesor,Disolutor-01,Conforme,Linea A,06:46:19,Miercoles
+L-2024-0120,Humedad,Termobalanza-01,Fuera de Especificacion (OOS),Linea A,06:24:28,Miercoles
+L-2024-0014,Peso promedio,Termobalanza-01,Fuera de Especificacion (OOS),Linea A,08:27:22,Lunes
+L-2024-0143,Espesor,Disolutor-01,Conforme,Linea B,18:47:57,Viernes
+L-2024-0207,,HPLC-01,Conforme,Linea B,16:57:24,Miercoles
+L-2024-0072,pH,Durometro-01,Conforme,Linea B,13:23:49,Miercoles
+L-2024-0159,Tiempo de desintegracion,HPLC-01,Conforme,Linea B,16:53:46,Martes
+L-2024-0062,Humedad,Termobalanza-01,Conforme,Linea B,08:38:54,Lunes
+L-2024-0249,Espesor,Durometro-01,Alerta,Linea B,13:41:42,Miercoles
+L-2024-0060,Humedad,Balanza-04,Alerta,Linea A,21:54:21,Viernes
+L-2024-0207,pH,Disolutor-02,Conforme,Linea A,06:26:42,Miercoles
+L-2024-0257,Disolucion 30 min,,Conforme,Linea B,21:49:01,Lunes
+L-2024-0231,Peso promedio,phmetro-01,Conforme,linea b,16:35:35,Viernes
+L-2024-0067,Tiempo de desintegracion,Disolutor-02,Alerta,Linea B,10:42:46,Lunes
+L-2024-0154,pH,phmetro-01,Conforme,Linea A,16:02:20,Jueves
+L-2024-0045,,Disolutor-01,Conforme,Linea A,20:38:24,Martes
+L-2024-0124,pH,Balanza-04,Conforme,Linea A,21:58:59,Miercoles
+L-2024-0091,Humedad,Durometro-02,Conforme,Linea B,20:37:39,Lunes
+L-2024-0195,Humedad,Disolutor-01,Conforme,Linea A,14:57:21,Jueves
+L-2024-0166,Peso promedio,Durometro-01,Conforme,Linea B,10:08:28,Miercoles
+L-2024-0085,,HPLC-02,Conforme,Linea B,19:45:28,Jueves
+L-2024-0142,Uniformidad de contenido,,Conforme,Linea A,06:16:43,Martes
+L-2024-0124,Friabilidad,Durometro-01,Alerta,Linea A,06:03:24,Viernes
+L-2024-0017,,Disolutor-01,Conforme,Linea A,15:58:38,Jueves
+L-2024-0145,Uniformidad de contenido,Balanza-04,Conforme,Linea A,14:17:59,Jueves
+L-2024-0233,Friabilidad,phmetro-01,Conforme,Linea B,17:40:38,Lunes
+L-2024-0254,pH,Disolutor-02,Conforme,Linea A,18:51:46,Viernes
+L-2024-0217,Espesor,Durometro-01,Conforme,Linea A,21:40:39,Miercoles
+L-2024-0149,Friabilidad,phmetro-01,Conforme,Linea A,12:00:50,Martes
+L-2024-0068,Disolucion 30 min,Balanza-04,Conforme,Linea A,19:57:21,Lunes
+L-2024-0094,Humedad,HPLC-02,Conforme,Linea A,19:14:37,Martes
+L-2024-0078,Humedad,Durometro-02,Conforme,Linea B,20:23:57,Miercoles
+L-2024-0258,Uniformidad de contenido,Durometro-01,Conforme,Linea A,11:15:38,Martes
+L-2024-0234,pH,Durometro-01,Conforme,Linea A,17:59:16,Lunes
+L-2024-0010,Tiempo de desintegracion,Balanza-03,Conforme,Linea B,13:57:24,Lunes
+L-2024-0057,Disolucion 30 min,phmetro-01,Conforme,Linea A,10:52:39,Lunes
+L-2024-0172,Tiempo de desintegracion,Durometro-01,Conforme,Linea A,20:29:35,Viernes
+L-2024-0058,Humedad,Balanza-03,Alerta,Linea B,13:19:49,Lunes
+L-2024-0154,pH,Durometro-02,Conforme,Linea A,19:11:27,Miercoles
+L-2024-0257,Uniformidad de contenido,HPLC-02,Conforme,Linea A,13:58:34,Lunes
+L-2024-0105,Friabilidad,Disolutor-01,Fuera de Especificacion (OOS),Linea A,16:02:27,Miercoles
+L-2024-0008,pH,HPLC-01,Conforme,Linea A,07:52:12,Lunes
+L-2024-0058,Uniformidad de contenido,Termobalanza-01,Alerta,linea a,08:59:27,Lunes
+L-2024-0134,Disolucion 30 min,HPLC-02,Alerta,Linea A,16:41:47,Lunes
+L-2024-0041,Uniformidad de contenido,Balanza-03,Conforme,Linea A,14:53:44,Miercoles
+L-2024-0231,Uniformidad de contenido,Disolutor-02,Conforme,Linea B,14:17:54,Martes
+L-2024-0148,Peso promedio,Disolutor-01,Conforme,Linea A,10:48:53,Lunes
+L-2024-0121,Tiempo de desintegracion,Durometro-02,Alerta,linea b,20:05:22,Miercoles
+L-2024-0050,pH,,Conforme,Linea A,06:36:01,Jueves
+L-2024-0041,Espesor,Balanza-04,Conforme,linea b,20:46:43,Lunes
+L-2024-0150,,Disolutor-02,Conforme,Linea A,10:56:35,Martes
+L-2024-0094,Friabilidad,phmetro-01,Conforme,Linea A,08:07:58,Martes
+L-2024-0208,Tiempo de desintegracion,Balanza-04,Conforme,Linea B,12:07:08,Lunes
+L-2024-0117,pH,,Conforme,Linea A,09:59:18,Lunes
+L-2024-0230,Humedad,,Conforme,Linea A,10:42:31,Martes
+L-2024-0119,Dureza,Durometro-02,Conforme,Linea B,11:16:04,Jueves
+L-2024-0017,pH,Balanza-03,Fuera de Tendencia (OOT),Linea A,12:43:12,Lunes
+L-2024-0074,Espesor,Balanza-04,Conforme,Linea A,16:19:09,Lunes
+L-2024-0136,Disolucion 30 min,HPLC-01,Conforme,Linea B,08:40:58,Martes
+L-2024-0249,Friabilidad,Disolutor-02,Conforme,Linea A,11:18:16,Miercoles
+L-2024-0091,Disolucion 30 min,Durometro-02,Conforme,Linea A,18:13:23,Miercoles
+L-2024-0071,Disolucion 30 min,HPLC-02,Conforme,Linea A,11:17:11,Viernes
+L-2024-0002,Uniformidad de contenido,Durometro-02,Alerta,Linea B,09:19:43,Miercoles
+L-2024-0096,Peso promedio,Termobalanza-01,Conforme,Linea A,17:52:29,Viernes
+L-2024-0222,Peso promedio,Termobalanza-01,Conforme,Linea B,08:12:33,Viernes
+L-2024-0089,Disolucion 30 min,HPLC-02,Conforme,Linea B,12:30:18,Martes
+L-2024-0176,Disolucion 30 min,Durometro-02,Conforme,Linea A,10:40:45,Jueves
+L-2024-0024,Uniformidad de contenido,Balanza-03,Alerta,Linea B,15:30:21,Jueves
+L-2024-0001,Tiempo de desintegracion,Durometro-01,Conforme,Linea B,19:38:31,Viernes
+L-2024-0063,Espesor,Balanza-04,Conforme,Linea B,06:34:39,Viernes
+L-2024-0207,Friabilidad,phmetro-01,Alerta,Linea B,13:22:07,Miercoles
+L-2024-0017,Friabilidad,HPLC-01,Alerta,Linea A,15:32:28,Miercoles
+L-2024-0128,Uniformidad de contenido,Balanza-04,Conforme,Linea B,06:58:22,Lunes
+L-2024-0077,,HPLC-02,Conforme,Linea B,13:50:11,Lunes
+L-2024-0063,Disolucion 30 min,Disolutor-01,Conforme,Linea A,11:55:45,Jueves
+L-2024-0220,Disolucion 30 min,HPLC-02,Conforme,Linea A,17:08:32,Miercoles
+L-2024-0242,Humedad,Durometro-02,Conforme,linea a,11:04:34,Martes
+L-2024-0190,Peso promedio,Disolutor-01,Conforme,Linea B,07:29:13,Miercoles
+L-2024-0038,Peso promedio,HPLC-01,Conforme,Linea A,07:58:37,Martes
+L-2024-0178,Dureza,Balanza-03,Conforme,Linea B,06:40:36,Lunes
+L-2024-0064,Humedad,Durometro-02,Conforme,Linea A,18:05:17,Viernes
+L-2024-0195,Disolucion 30 min,phmetro-01,Conforme,Linea A,06:57:16,Lunes
+L-2024-0121,Dureza,Balanza-03,Conforme,Linea B,10:41:59,Viernes
+L-2024-0005,pH,Disolutor-02,Fuera de Especificacion (OOS),Linea B,08:42:26,Viernes
+L-2024-0132,Peso promedio,HPLC-01,Conforme,Linea A,21:23:49,Lunes
+L-2024-0226,Peso promedio,Durometro-02,Conforme,Linea A,20:06:10,Miercoles
+L-2024-0145,Disolucion 30 min,Balanza-04,Conforme,Linea A,20:06:29,Martes
+L-2024-0132,Dureza,Durometro-02,Conforme,Linea B,09:35:40,Martes
+L-2024-0061,Peso promedio,phmetro-01,Conforme,Linea B,12:14:45,Martes
+L-2024-0224,Uniformidad de contenido,Durometro-02,Conforme,Linea B,14:02:05,Viernes
+L-2024-0023,Humedad,phmetro-01,Alerta,Linea A,08:43:04,Jueves
+L-2024-0170,Disolucion 30 min,phmetro-01,Conforme,Linea A,19:00:06,Lunes
+L-2024-0006,Uniformidad de contenido,Disolutor-02,Conforme,Linea A,16:23:09,Martes
+L-2024-0029,Humedad,phmetro-01,Conforme,Linea A,16:20:42,Miercoles
+L-2024-0259,Espesor,HPLC-01,Conforme,Linea B,14:22:00,Lunes
+L-2024-0196,Friabilidad,Disolutor-02,Conforme,Linea A,14:58:40,Jueves
+L-2024-0097,Humedad,Durometro-02,Conforme,Linea A,11:53:19,Martes
+L-2024-0140,Humedad,Disolutor-01,Conforme,Linea B,10:30:17,Miercoles
+L-2024-0051,Espesor,Balanza-03,Conforme,Linea B,13:33:36,Viernes
+L-2024-0036,Espesor,Balanza-04,Alerta,Linea B,16:25:25,Viernes
+L-2024-0094,Disolucion 30 min,Termobalanza-01,Conforme,Linea A,16:55:49,Viernes
+L-2024-0199,Tiempo de desintegracion,Termobalanza-01,Conforme,Linea A,16:50:56,Viernes
+L-2024-0062,Disolucion 30 min,Disolutor-02,Conforme,Linea A,13:11:19,Viernes
+L-2024-0035,Espesor,Balanza-04,Conforme,Linea A,13:45:10,Martes
+L-2024-0245,Peso promedio,Balanza-03,Alerta,Linea A,08:33:47,Viernes
+L-2024-0180,Espesor,HPLC-02,Conforme,Linea A,14:43:15,Miercoles
+L-2024-0214,Peso promedio,Durometro-01,Conforme,Linea B,17:24:21,Martes
+L-2024-0127,Tiempo de desintegracion,Durometro-01,Conforme,linea a,20:27:53,Viernes
+L-2024-0219,Dureza,Durometro-01,Conforme,Linea B,11:56:19,Viernes
+L-2024-0123,Tiempo de desintegracion,Balanza-03,Conforme,Linea B,13:43:59,Lunes
+L-2024-0260,Disolucion 30 min,Durometro-02,Conforme,Linea A,08:41:49,Miercoles
+L-2024-0242,Humedad,Disolutor-01,Alerta,Linea B,18:27:33,Lunes
+L-2024-0098,Espesor,Durometro-02,Conforme,Linea A,13:26:01,Lunes
+L-2024-0250,Disolucion 30 min,Durometro-01,Conforme,Linea A,11:30:13,Lunes
+L-2024-0215,Friabilidad,Balanza-04,Alerta,Linea A,10:31:50,Martes
+L-2024-0096,Uniformidad de contenido,HPLC-02,Conforme,Linea B,12:24:36,Viernes
+L-2024-0100,Tiempo de desintegracion,Durometro-02,Conforme,Linea B,09:13:05,Lunes
+L-2024-0214,Humedad,Disolutor-02,Conforme,Linea A,21:48:47,Jueves
+L-2024-0176,Uniformidad de contenido,HPLC-01,Conforme,Linea B,08:10:56,Miercoles
+L-2024-0224,Tiempo de desintegracion,Disolutor-02,Conforme,Linea B,21:11:17,Miercoles
+L-2024-0202,Humedad,Termobalanza-01,Conforme,Linea A,07:56:25,Miercoles
+L-2024-0110,Tiempo de desintegracion,HPLC-01,Conforme,Linea A,21:11:56,Miercoles
+L-2024-0243,pH,Termobalanza-01,Conforme,Linea A,06:34:30,Martes
+L-2024-0142,Uniformidad de contenido,Durometro-01,Conforme,Linea B,21:45:54,Viernes
+L-2024-0172,pH,Balanza-04,Conforme,Linea A,12:27:30,Viernes
+L-2024-0207,Disolucion 30 min,Balanza-03,Conforme,Linea A,17:29:50,Lunes
+L-2024-0255,Dureza,HPLC-02,Fuera de Especificacion (OOS),Linea A,14:29:45,Martes
+L-2024-0232,Peso promedio,Balanza-04,Alerta,Linea B,11:57:36,Viernes
+L-2024-0088,Tiempo de desintegracion,phmetro-01,Conforme,Linea A,06:33:30,Lunes
+L-2024-0046,Uniformidad de contenido,phmetro-01,Conforme,Linea A,19:11:40,Miercoles
+L-2024-0144,Peso promedio,Termobalanza-01,Conforme,linea a,07:34:57,Viernes
+L-2024-0204,Espesor,HPLC-02,Conforme,linea a,11:29:06,Jueves
+L-2024-0169,Tiempo de desintegracion,Balanza-03,Fuera de Especificacion (OOS),Linea A,07:16:27,Viernes
+L-2024-0039,pH,Disolutor-02,Conforme,Linea A,21:50:13,Martes
+L-2024-0096,Dureza,HPLC-01,Conforme,Linea A,17:16:41,Lunes
+L-2024-0098,Peso promedio,Durometro-02,Fuera de Especificacion (OOS),Linea B,08:03:46,Miercoles
+L-2024-0241,Disolucion 30 min,phmetro-01,Conforme,Linea B,12:39:28,Lunes
+L-2024-0058,Humedad,Durometro-02,Conforme,Linea B,07:13:49,Jueves
+L-2024-0119,Tiempo de desintegracion,Balanza-04,Conforme,Linea A,12:03:11,Miercoles
+L-2024-0243,Humedad,Durometro-02,Conforme,Linea A,19:25:48,Martes
+L-2024-0235,Peso promedio,Durometro-02,Alerta,Linea B,13:34:07,Jueves
+L-2024-0172,Tiempo de desintegracion,HPLC-02,Alerta,Linea B,19:33:02,Viernes
+L-2024-0131,Friabilidad,Disolutor-02,Conforme,Linea A,11:17:04,Jueves
+L-2024-0042,Peso promedio,HPLC-01,Alerta,Linea A,17:32:31,Viernes
+L-2024-0236,Tiempo de desintegracion,Durometro-01,Conforme,Linea A,08:39:59,Lunes
+L-2024-0166,Peso promedio,phmetro-01,Conforme,Linea A,20:57:25,Viernes
+L-2024-0165,Humedad,HPLC-01,Conforme,Linea B,20:37:39,Martes
+L-2024-0068,Disolucion 30 min,HPLC-02,Conforme,Linea B,15:29:50,Miercoles
+L-2024-0025,Peso promedio,Disolutor-02,Alerta,Linea B,07:26:41,Lunes
+L-2024-0235,Uniformidad de contenido,Durometro-01,Conforme,Linea B,06:51:03,Miercoles
+L-2024-0047,Disolucion 30 min,phmetro-01,Alerta,Linea A,19:47:42,Miercoles
+L-2024-0022,Humedad,Disolutor-01,Conforme,Linea B,09:56:09,Viernes
+L-2024-0118,Dureza,Disolutor-01,Conforme,Linea A,15:18:25,Miercoles
+L-2024-0233,Friabilidad,Balanza-04,Alerta,Linea A,21:48:01,Jueves
+L-2024-0210,pH,HPLC-01,Conforme,Linea B,15:58:47,Lunes
+L-2024-0058,Uniformidad de contenido,Disolutor-01,Conforme,Linea B,15:20:15,Viernes
+L-2024-0022,Humedad,Disolutor-02,Conforme,Linea B,20:54:30,Miercoles
+L-2024-0020,Dureza,Balanza-04,Conforme,Linea B,07:55:22,Viernes
+L-2024-0005,Disolucion 30 min,Durometro-02,Conforme,Linea A,14:31:46,Lunes
+L-2024-0140,Humedad,phmetro-01,Conforme,Linea B,19:38:36,Jueves
+L-2024-0210,Dureza,Disolutor-02,Conforme,Linea A,13:36:46,Miercoles
+L-2024-0088,Dureza,Balanza-04,Alerta,Linea B,14:49:55,Miercoles
+L-2024-0186,Uniformidad de contenido,Durometro-01,Conforme,Linea A,06:28:32,Lunes
+L-2024-0157,Uniformidad de contenido,Disolutor-02,Conforme,Linea B,08:31:45,Jueves
+L-2024-0113,Humedad,Disolutor-01,Conforme,Linea A,09:07:56,Miercoles
+L-2024-0121,Disolucion 30 min,phmetro-01,Conforme,Linea A,19:56:03,Lunes
+L-2024-0106,Espesor,HPLC-02,Conforme,Linea B,21:53:39,Jueves
+L-2024-0081,Espesor,Termobalanza-01,Alerta,Linea B,10:08:08,Martes
+L-2024-0026,Humedad,HPLC-01,Fuera de Especificacion (OOS),Linea B,18:32:45,Miercoles
+L-2024-0221,Espesor,Disolutor-01,Conforme,Linea B,11:29:14,Jueves
+L-2024-0139,Friabilidad,Balanza-03,Fuera de Tendencia (OOT),Linea B,16:25:08,Viernes
+L-2024-0235,Dureza,HPLC-01,Fuera de Tendencia (OOT),Linea A,09:40:24,Martes
+L-2024-0035,Tiempo de desintegracion,Balanza-04,Conforme,Linea B,14:23:29,Jueves
+L-2024-0176,Disolucion 30 min,phmetro-01,Conforme,Linea B,17:04:00,Martes
+L-2024-0115,Friabilidad,HPLC-01,Conforme,Linea A,07:38:24,Viernes
+L-2024-0204,Tiempo de desintegracion,HPLC-02,Conforme,Linea A,08:03:51,Miercoles
+L-2024-0100,Dureza,Disolutor-01,Conforme,Linea A,19:54:33,Martes
+L-2024-0102,Peso promedio,Disolutor-02,Conforme,Linea B,21:45:53,Jueves
+L-2024-0064,Uniformidad de contenido,HPLC-01,Alerta,Linea B,09:37:49,Lunes
+L-2024-0041,Tiempo de desintegracion,Termobalanza-01,Conforme,Linea A,06:23:27,Jueves
+L-2024-0092,Dureza,,Conforme,Linea A,19:10:26,Lunes
+L-2024-0218,Friabilidad,Durometro-01,Conforme,Linea B,06:04:37,Lunes
+L-2024-0129,Disolucion 30 min,Durometro-01,Conforme,Linea B,17:14:18,Martes
+L-2024-0189,pH,Durometro-01,Conforme,Linea A,21:51:24,Martes
+L-2024-0020,Tiempo de desintegracion,phmetro-01,Conforme,Linea A,19:00:31,Lunes
+L-2024-0215,Peso promedio,,Conforme,Linea A,16:10:01,Jueves
+L-2024-0189,pH,Disolutor-02,Conforme,Linea B,07:31:53,Viernes
+L-2024-0014,Uniformidad de contenido,Balanza-03,Conforme,Linea B,15:41:52,Martes
+L-2024-0035,Dureza,Disolutor-01,Conforme,Linea A,21:09:15,Jueves
+L-2024-0198,Humedad,HPLC-02,Alerta,Linea B,08:25:18,Martes
+L-2024-0103,Peso promedio,Balanza-04,Conforme,Linea A,17:11:17,Miercoles
+L-2024-0136,Tiempo de desintegracion,Durometro-01,Alerta,Linea A,19:51:22,Viernes
+L-2024-0209,Peso promedio,Durometro-02,Conforme,Linea A,10:56:43,Jueves
+L-2024-0180,Espesor,Balanza-03,Conforme,linea a,20:48:51,Viernes
+L-2024-0041,Friabilidad,Balanza-03,Conforme,Linea A,21:03:49,Miercoles
+L-2024-0258,Tiempo de desintegracion,Balanza-03,Conforme,Linea B,13:26:17,Viernes
+L-2024-0180,Peso promedio,Durometro-01,Conforme,Linea A,10:51:39,Martes
+L-2024-0187,Espesor,Balanza-04,Conforme,Linea A,16:11:15,Viernes
+L-2024-0245,pH,HPLC-02,Conforme,Linea A,20:33:22,Lunes
+L-2024-0139,Humedad,Disolutor-02,Conforme,Linea A,06:53:44,Lunes
+L-2024-0252,Friabilidad,Balanza-03,Conforme,Linea A,13:46:01,Martes
+L-2024-0116,Peso promedio,Durometro-01,Conforme,Linea A,15:29:25,Martes
+L-2024-0112,Uniformidad de contenido,Termobalanza-01,Conforme,Linea B,12:49:43,Miercoles
+L-2024-0143,Friabilidad,Disolutor-02,Alerta,Linea A,12:24:28,Miercoles
+L-2024-0059,Peso promedio,Balanza-04,Conforme,Linea A,12:11:27,Martes
+L-2024-0221,Humedad,Balanza-04,Conforme,Linea A,11:39:19,Viernes
+L-2024-0213,Friabilidad,Disolutor-01,Conforme,Linea A,18:30:37,Viernes
+L-2024-0083,Espesor,Disolutor-02,Conforme,Linea A,13:12:54,Viernes
+L-2024-0087,Disolucion 30 min,Termobalanza-01,Conforme,linea a,18:33:15,Lunes
+L-2024-0056,Tiempo de desintegracion,Balanza-04,Conforme,linea a,12:28:50,Viernes
+L-2024-0209,Friabilidad,Disolutor-02,Conforme,Linea B,14:57:49,Jueves
+L-2024-0140,Espesor,Durometro-01,Conforme,Linea A,06:28:38,Miercoles
+L-2024-0144,Tiempo de desintegracion,,Conforme,Linea A,06:33:37,Viernes
+L-2024-0211,Peso promedio,Disolutor-01,Fuera de Especificacion (OOS),Linea A,20:16:00,Martes
+L-2024-0075,pH,phmetro-01,Conforme,Linea A,19:37:46,Martes
+L-2024-0101,Friabilidad,Durometro-01,Conforme,Linea B,15:27:47,Lunes
+L-2024-0091,Friabilidad,Termobalanza-01,Conforme,Linea A,10:40:31,Martes
+L-2024-0003,Humedad,Durometro-02,Conforme,Linea B,09:04:27,Martes
+L-2024-0041,Peso promedio,Balanza-04,Conforme,linea a,10:26:36,Jueves
+L-2024-0039,Humedad,Disolutor-01,Alerta,Linea A,07:42:58,Lunes
+L-2024-0071,Uniformidad de contenido,Disolutor-02,Conforme,Linea A,14:49:20,Martes
+L-2024-0200,Disolucion 30 min,phmetro-01,Alerta,Linea A,07:09:12,Martes
+L-2024-0133,Disolucion 30 min,Balanza-04,Conforme,Linea B,19:39:36,Viernes
+L-2024-0002,Dureza,Termobalanza-01,Conforme,Linea A,16:23:38,Jueves
+L-2024-0146,,Balanza-03,Conforme,Linea B,08:45:21,Jueves
+L-2024-0226,Friabilidad,Disolutor-01,Conforme,Linea B,15:16:52,Jueves
+L-2024-0146,Espesor,HPLC-01,Conforme,Linea B,18:54:26,Miercoles
+L-2024-0226,pH,Disolutor-01,Conforme,Linea A,09:09:49,Lunes
+L-2024-0048,Uniformidad de contenido,Balanza-04,Conforme,Linea A,15:42:43,Lunes
+L-2024-0053,pH,HPLC-02,Conforme,Linea B,10:09:49,Viernes
+L-2024-0028,Tiempo de desintegracion,Durometro-01,Conforme,Linea A,19:13:38,Martes
+L-2024-0097,Espesor,Durometro-01,Conforme,Linea A,10:14:12,Lunes
+L-2024-0162,Dureza,Balanza-03,Conforme,Linea A,06:33:46,Jueves
+L-2024-0069,Espesor,HPLC-01,Conforme,Linea A,11:36:00,Lunes
+L-2024-0142,pH,HPLC-01,Conforme,Linea A,09:01:48,Viernes
+L-2024-0013,Espesor,Termobalanza-01,Conforme,Linea A,12:20:12,Lunes
+L-2024-0088,Peso promedio,Disolutor-02,Conforme,Linea A,11:42:40,Lunes
+L-2024-0019,Disolucion 30 min,Durometro-02,Conforme,Linea A,09:07:42,Martes
+L-2024-0059,Dureza,Durometro-01,Fuera de Especificacion (OOS),Linea B,09:26:59,Lunes
+L-2024-0120,,phmetro-01,Conforme,Linea A,07:48:28,Viernes
+L-2024-0181,Dureza,,Conforme,Linea A,11:01:46,Jueves
+L-2024-0104,Uniformidad de contenido,Balanza-03,Conforme,Linea B,11:56:13,Jueves
+L-2024-0205,Uniformidad de contenido,Disolutor-02,Conforme,Linea B,16:02:40,Lunes
+L-2024-0103,Dureza,phmetro-01,Alerta,Linea B,14:40:59,Viernes
+L-2024-0023,Friabilidad,Disolutor-01,Conforme,Linea A,14:07:02,Viernes
+L-2024-0078,Dureza,Disolutor-02,Conforme,Linea A,11:42:05,Lunes
+L-2024-0080,Espesor,Termobalanza-01,Conforme,Linea A,09:40:03,Lunes
+L-2024-0223,pH,HPLC-01,Conforme,Linea B,09:30:31,Viernes
+L-2024-0258,Uniformidad de contenido,HPLC-02,Conforme,Linea A,17:22:25,Miercoles
+L-2024-0099,Disolucion 30 min,Balanza-03,Conforme,Linea A,13:49:21,Jueves
+L-2024-0025,Espesor,HPLC-01,Conforme,Linea A,20:20:46,Jueves
+L-2024-0210,Humedad,HPLC-01,Conforme,Linea B,06:29:44,Jueves
+L-2024-0230,Dureza,Durometro-02,Conforme,Linea B,13:58:04,Jueves
+L-2024-0233,Friabilidad,phmetro-01,Conforme,Linea B,17:40:38,Lunes
+L-2024-0041,Espesor,Durometro-02,Alerta,linea b,14:17:51,Miercoles
+L-2024-0060,Disolucion 30 min,,Conforme,Linea A,06:54:44,Viernes
+L-2024-0007,Humedad,Disolutor-02,Conforme,Linea A,13:12:23,Martes
+L-2024-0193,Peso promedio,Durometro-01,Conforme,Linea B,17:02:54,Martes
+L-2024-0065,Friabilidad,Termobalanza-01,Conforme,Linea A,09:44:20,Viernes
+L-2024-0093,Tiempo de desintegracion,Durometro-02,Conforme,Linea B,20:04:09,Miercoles
+L-2024-0150,Peso promedio,HPLC-02,Fuera de Tendencia (OOT),Linea B,14:07:55,Lunes
+L-2024-0079,Peso promedio,Termobalanza-01,Conforme,Linea B,07:19:51,Lunes
+L-2024-0217,Uniformidad de contenido,Termobalanza-01,Conforme,Linea B,18:09:18,Lunes
+L-2024-0118,Tiempo de desintegracion,Disolutor-01,Conforme,Linea A,14:00:24,Miercoles
+L-2024-0036,Disolucion 30 min,Balanza-04,Conforme,Linea A,17:35:28,Jueves
+L-2024-0221,Uniformidad de contenido,Durometro-01,Conforme,Linea B,06:03:55,Martes
+L-2024-0046,Dureza,HPLC-02,Conforme,Linea A,14:34:59,Miercoles
+L-2024-0095,Espesor,phmetro-01,Conforme,Linea A,09:19:41,Miercoles
+L-2024-0251,Espesor,Balanza-04,Conforme,Linea B,21:48:25,Lunes
+L-2024-0154,Dureza,Disolutor-01,Conforme,Linea B,08:44:04,Miercoles
+L-2024-0133,Peso promedio,Disolutor-01,Alerta,Linea A,21:42:29,Lunes
+L-2024-0189,Dureza,Disolutor-01,Alerta,Linea A,11:20:23,Lunes
+L-2024-0069,Espesor,Balanza-04,Conforme,Linea A,15:46:22,Viernes
+L-2024-0224,Espesor,HPLC-01,Conforme,Linea A,13:39:53,Jueves
+L-2024-0072,Tiempo de desintegracion,HPLC-02,Conforme,Linea B,14:42:37,Lunes
+L-2024-0001,Uniformidad de contenido,HPLC-02,Alerta,Linea A,13:31:26,Lunes
+L-2024-0006,pH,phmetro-01,Alerta,Linea A,10:00:27,Lunes
+L-2024-0159,Friabilidad,Balanza-04,Conforme,Linea B,21:53:37,Martes
+L-2024-0228,Humedad,HPLC-01,Conforme,Linea A,17:22:03,Miercoles
+L-2024-0244,Peso promedio,Disolutor-01,Fuera de Tendencia (OOT),Linea A,08:58:49,Lunes
+L-2024-0081,Tiempo de desintegracion,Disolutor-01,Conforme,Linea A,16:54:06,Lunes
+L-2024-0078,Humedad,Balanza-04,Conforme,Linea B,14:34:48,Martes
+L-2024-0257,Disolucion 30 min,,Conforme,linea a,17:15:25,Lunes
+L-2024-0060,Espesor,HPLC-02,Alerta,Linea A,10:23:25,Lunes
+L-2024-0250,Uniformidad de contenido,HPLC-02,Conforme,Linea A,14:14:17,Jueves
+L-2024-0139,Humedad,HPLC-02,Conforme,Linea A,15:51:34,Lunes
+L-2024-0051,,HPLC-01,Conforme,Linea B,15:44:22,Miercoles
+L-2024-0051,Peso promedio,Disolutor-02,Conforme,Linea A,13:01:06,Miercoles
+L-2024-0032,Disolucion 30 min,phmetro-01,Conforme,Linea A,09:22:22,Viernes
+L-2024-0165,Disolucion 30 min,HPLC-01,Conforme,Linea A,16:19:51,Viernes
+L-2024-0257,Tiempo de desintegracion,HPLC-02,Alerta,Linea B,21:27:17,Viernes
+L-2024-0002,Uniformidad de contenido,Durometro-01,Conforme,Linea A,06:54:17,Jueves
+L-2024-0007,Disolucion 30 min,HPLC-01,Fuera de Especificacion (OOS),Linea A,08:19:28,Lunes
+L-2024-0079,Tiempo de desintegracion,Disolutor-02,Conforme,Linea A,08:31:54,Viernes
+L-2024-0117,Uniformidad de contenido,HPLC-01,Conforme,Linea A,15:31:43,Viernes
+L-2024-0160,Disolucion 30 min,Durometro-01,Conforme,Linea A,10:04:21,Martes
+L-2024-0214,Disolucion 30 min,Balanza-03,Conforme,Linea B,07:25:14,Miercoles
+L-2024-0071,Disolucion 30 min,Balanza-03,Conforme,Linea A,10:16:48,Miercoles
+L-2024-0040,Humedad,HPLC-01,Conforme,Linea B,09:41:58,Miercoles
+L-2024-0008,Disolucion 30 min,HPLC-02,Conforme,Linea B,20:35:19,Lunes
+L-2024-0058,Tiempo de desintegracion,Disolutor-02,Conforme,Linea A,16:52:27,Lunes
+L-2024-0228,Peso promedio,Balanza-04,Conforme,Linea B,13:10:39,Viernes
+L-2024-0195,Tiempo de desintegracion,HPLC-01,Conforme,Linea A,20:48:48,Jueves
+L-2024-0098,Dureza,Durometro-01,Conforme,Linea A,06:58:37,Miercoles
+L-2024-0060,Tiempo de desintegracion,HPLC-01,Conforme,Linea B,11:21:29,Lunes
+L-2024-0046,Friabilidad,Durometro-02,Conforme,Linea A,21:03:51,Martes
+L-2024-0135,Tiempo de desintegracion,Durometro-02,Conforme,Linea A,14:44:50,Viernes
+L-2024-0140,Peso promedio,Balanza-03,Conforme,Linea A,08:55:03,Viernes
+L-2024-0195,Peso promedio,Durometro-02,Conforme,Linea B,09:43:39,Lunes
+L-2024-0016,Uniformidad de contenido,Balanza-04,Conforme,Linea A,17:19:17,Miercoles
+L-2024-0058,Friabilidad,Durometro-01,Conforme,Linea A,18:07:55,Viernes
+L-2024-0120,pH,phmetro-01,Conforme,Linea B,11:25:59,Jueves
+L-2024-0113,Friabilidad,Balanza-04,Conforme,Linea B,09:14:12,Lunes
+L-2024-0170,pH,HPLC-02,Conforme,Linea B,17:56:59,Miercoles
+L-2024-0095,Humedad,Termobalanza-01,Conforme,Linea A,20:30:02,Jueves
+L-2024-0028,Friabilidad,HPLC-01,Conforme,Linea A,09:41:36,Lunes
+L-2024-0218,Tiempo de desintegracion,Balanza-03,Alerta,Linea B,20:22:17,Lunes
+L-2024-0130,Peso promedio,phmetro-01,Fuera de Especificacion (OOS),Linea A,07:17:16,Lunes
+L-2024-0119,Espesor,Balanza-04,Conforme,linea a,08:00:25,Lunes
+L-2024-0078,Tiempo de desintegracion,Balanza-03,Conforme,Linea B,20:40:22,Miercoles
+L-2024-0136,Disolucion 30 min,,Conforme,Linea B,08:40:58,Martes
+L-2024-0223,Peso promedio,Durometro-01,Conforme,Linea A,20:26:38,Jueves
+L-2024-0032,Dureza,phmetro-01,Conforme,Linea B,11:49:53,Jueves
+L-2024-0003,Friabilidad,Balanza-04,Conforme,Linea B,15:42:45,Martes
+L-2024-0157,Uniformidad de contenido,Termobalanza-01,Conforme,Linea A,17:19:31,Lunes
+L-2024-0199,Humedad,Termobalanza-01,Conforme,Linea A,11:26:32,Miercoles
+L-2024-0226,Tiempo de desintegracion,HPLC-01,Conforme,Linea A,18:43:17,Jueves
+L-2024-0111,Uniformidad de contenido,Disolutor-01,Conforme,Linea B,08:46:58,Miercoles
+L-2024-0119,Dureza,Balanza-04,Conforme,linea a,12:57:30,Lunes
+L-2024-0202,pH,phmetro-01,Alerta,Linea B,09:43:02,Lunes
+L-2024-0038,Disolucion 30 min,Balanza-03,Alerta,Linea A,19:48:10,Martes
+L-2024-0177,Humedad,Durometro-01,Alerta,Linea A,13:21:06,Lunes
+L-2024-0156,Tiempo de desintegracion,Durometro-01,Conforme,Linea A,11:00:05,Miercoles
+L-2024-0030,Uniformidad de contenido,,Conforme,Linea A,07:43:42,Lunes
+L-2024-0195,Friabilidad,Disolutor-01,Conforme,Linea B,19:57:46,Miercoles
+L-2024-0219,Uniformidad de contenido,Durometro-01,Conforme,Linea A,15:15:42,Jueves
+L-2024-0041,pH,Disolutor-02,Fuera de Especificacion (OOS),Linea B,10:53:08,Martes
+L-2024-0127,Friabilidad,Durometro-01,Conforme,Linea A,06:30:56,Miercoles
+L-2024-0081,Peso promedio,Durometro-01,Conforme,Linea B,09:39:56,Martes
+L-2024-0068,pH,HPLC-02,Conforme,Linea B,10:02:18,Viernes
+L-2024-0018,Peso promedio,Balanza-04,Alerta,Linea A,08:56:39,Lunes
+L-2024-0124,Tiempo de desintegracion,Disolutor-01,Conforme,Linea B,07:19:48,Miercoles
+L-2024-0074,Tiempo de desintegracion,HPLC-01,Conforme,Linea A,21:16:34,Miercoles
+L-2024-0085,Disolucion 30 min,Durometro-02,Conforme,Linea B,18:49:10,Jueves
+L-2024-0093,Disolucion 30 min,HPLC-02,Conforme,Linea B,11:08:07,Lunes
+L-2024-0202,Humedad,Balanza-04,Conforme,Linea A,19:14:23,Miercoles
+L-2024-0086,Friabilidad,Balanza-04,Fuera de Especificacion (OOS),Linea A,11:49:43,Miercoles
+L-2024-0052,Humedad,Termobalanza-01,Conforme,Linea A,20:57:07,Miercoles
+L-2024-0056,Disolucion 30 min,Termobalanza-01,Conforme,Linea B,15:02:34,Martes
+L-2024-0191,Tiempo de desintegracion,Balanza-04,Conforme,Linea B,14:36:02,Jueves
+L-2024-0248,Tiempo de desintegracion,phmetro-01,Conforme,Linea A,08:07:10,Martes
+L-2024-0111,Peso promedio,Durometro-01,Conforme,Linea B,09:24:51,Lunes
+L-2024-0170,Uniformidad de contenido,HPLC-01,Fuera de Especificacion (OOS),linea b,17:11:10,Viernes
+L-2024-0167,,Balanza-04,Conforme,Linea A,14:46:02,Viernes
+L-2024-0200,Disolucion 30 min,phmetro-01,Conforme,Linea B,19:32:24,Viernes
+L-2024-0204,pH,HPLC-02,Conforme,Linea B,09:31:05,Viernes
+L-2024-0238,Uniformidad de contenido,HPLC-01,Conforme,Linea A,20:44:07,Lunes
+L-2024-0243,Dureza,Balanza-03,Conforme,Linea B,14:57:39,Lunes
+L-2024-0253,Disolucion 30 min,Balanza-03,Conforme,Linea A,12:58:19,Jueves
+L-2024-0002,Tiempo de desintegracion,HPLC-01,Alerta,Linea A,18:11:12,Martes
+L-2024-0132,Tiempo de desintegracion,Durometro-01,Conforme,Linea A,08:45:35,Lunes
+L-2024-0016,Humedad,phmetro-01,Alerta,Linea A,06:45:32,Lunes
+L-2024-0195,Espesor,Balanza-03,Conforme,Linea A,17:20:21,Lunes
+L-2024-0033,Tiempo de desintegracion,Balanza-04,Alerta,Linea A,13:00:33,Viernes
+L-2024-0220,Espesor,Durometro-01,Conforme,Linea A,12:45:08,Lunes
+L-2024-0259,Friabilidad,Termobalanza-01,Conforme,Linea A,18:47:38,Miercoles
+L-2024-0182,Humedad,,Alerta,Linea A,07:17:31,Martes
+L-2024-0181,Espesor,HPLC-02,Conforme,Linea A,20:35:07,Martes
+L-2024-0019,Uniformidad de contenido,Durometro-01,Conforme,Linea A,11:20:44,Jueves
+L-2024-0098,Friabilidad,HPLC-01,Alerta,Linea B,16:47:49,Jueves
+L-2024-0131,Friabilidad,Balanza-03,Conforme,Linea B,18:10:09,Lunes
+L-2024-0002,Friabilidad,Balanza-03,Conforme,Linea B,10:47:25,Miercoles
+L-2024-0044,Uniformidad de contenido,Termobalanza-01,Fuera de Especificacion (OOS),Linea B,15:54:26,Jueves
+L-2024-0150,Humedad,HPLC-01,Alerta,Linea A,06:25:44,Lunes
+L-2024-0140,pH,Durometro-02,Conforme,Linea A,20:50:37,Martes
+L-2024-0147,Disolucion 30 min,Balanza-03,Conforme,Linea A,07:11:24,Jueves
+L-2024-0169,Humedad,HPLC-02,Fuera de Tendencia (OOT),Linea A,07:16:07,Lunes
+L-2024-0103,Dureza,Disolutor-01,Conforme,Linea A,09:24:56,Jueves
+L-2024-0128,Disolucion 30 min,Termobalanza-01,Fuera de Especificacion (OOS),Linea B,07:10:51,Lunes
+L-2024-0065,Uniformidad de contenido,HPLC-02,Conforme,linea a,13:49:02,Jueves
+L-2024-0031,Humedad,Termobalanza-01,Conforme,Linea A,10:23:47,Viernes
+L-2024-0157,Dureza,Termobalanza-01,Conforme,Linea A,16:42:27,Miercoles
+L-2024-0239,Espesor,HPLC-02,Conforme,Linea A,10:59:13,Miercoles
+L-2024-0164,Espesor,HPLC-01,Conforme,Linea A,09:42:47,Jueves
+L-2024-0150,pH,HPLC-02,Conforme,Linea B,21:05:05,Jueves
+L-2024-0180,Friabilidad,Disolutor-01,Conforme,Linea A,13:16:28,Viernes
+L-2024-0115,Uniformidad de contenido,Durometro-02,Conforme,Linea A,17:11:17,Jueves
+L-2024-0199,Peso promedio,Disolutor-02,Conforme,Linea A,12:55:45,Miercoles
+L-2024-0032,pH,Disolutor-02,Conforme,Linea B,18:07:14,Miercoles
+L-2024-0136,pH,Balanza-03,Conforme,Linea B,18:59:37,Martes
+L-2024-0050,Tiempo de desintegracion,Balanza-03,Conforme,Linea A,18:50:41,Lunes
+L-2024-0259,Uniformidad de contenido,HPLC-02,Conforme,Linea B,18:26:17,Lunes
+L-2024-0250,,Balanza-04,Alerta,Linea A,11:04:41,Miercoles
+L-2024-0164,Espesor,Balanza-04,Alerta,Linea A,16:49:14,Miercoles
+L-2024-0218,Tiempo de desintegracion,HPLC-02,Conforme,Linea A,19:32:34,Jueves
+L-2024-0040,Tiempo de desintegracion,Termobalanza-01,Conforme,Linea A,10:47:01,Martes
+L-2024-0254,Dureza,Durometro-02,Conforme,Linea B,14:30:06,Viernes
+L-2024-0163,Dureza,Termobalanza-01,Conforme,Linea A,08:21:01,Viernes
+L-2024-0043,Espesor,Durometro-02,Conforme,Linea A,10:30:54,Viernes
+L-2024-0065,Friabilidad,Termobalanza-01,Conforme,linea a,06:41:47,Lunes
+L-2024-0236,Dureza,Disolutor-02,Alerta,Linea B,19:08:11,Miercoles
+L-2024-0105,Tiempo de desintegracion,Durometro-02,Conforme,Linea B,19:52:07,Viernes
+L-2024-0120,Humedad,Termobalanza-01,Conforme,Linea B,06:27:43,Jueves
+L-2024-0171,Friabilidad,Termobalanza-01,Alerta,Linea B,09:33:46,Jueves
+L-2024-0199,Friabilidad,Termobalanza-01,Conforme,Linea A,06:31:35,Martes
+L-2024-0205,Uniformidad de contenido,Balanza-03,Conforme,Linea A,18:38:35,Miercoles
+L-2024-0083,Uniformidad de contenido,Termobalanza-01,Conforme,Linea A,19:27:42,Jueves
+L-2024-0148,Dureza,Balanza-04,Conforme,Linea A,09:58:03,Jueves
+L-2024-0161,Dureza,Disolutor-02,Conforme,Linea A,14:46:26,Miercoles
+L-2024-0160,,Termobalanza-01,Conforme,Linea A,21:34:23,Viernes
+L-2024-0045,Humedad,Disolutor-01,Conforme,Linea A,12:18:58,Jueves
+L-2024-0110,Peso promedio,Disolutor-02,Conforme,Linea B,18:13:59,Viernes
+L-2024-0041,Uniformidad de contenido,Durometro-02,Alerta,Linea A,09:31:35,Miercoles
+L-2024-0225,pH,Balanza-03,Conforme,Linea A,06:33:02,Viernes
+L-2024-0186,Friabilidad,Disolutor-02,Conforme,Linea B,13:16:56,Jueves
+L-2024-0191,Espesor,Durometro-02,Conforme,Linea B,11:42:06,Jueves
+L-2024-0014,Uniformidad de contenido,Termobalanza-01,Conforme,Linea B,06:55:10,Viernes
+L-2024-0239,Espesor,Disolutor-01,Conforme,Linea A,09:02:20,Lunes
+L-2024-0235,Tiempo de desintegracion,phmetro-01,Alerta,Linea B,11:27:17,Miercoles
+L-2024-0187,Peso promedio,Durometro-01,Conforme,Linea A,20:34:25,Miercoles
+L-2024-0159,Espesor,HPLC-01,Conforme,Linea B,20:59:48,Martes
+L-2024-0107,Peso promedio,Durometro-01,Conforme,Linea A,16:30:32,Martes
+L-2024-0064,Dureza,HPLC-02,Conforme,Linea A,15:20:59,Martes
+L-2024-0056,Disolucion 30 min,HPLC-01,Conforme,Linea A,20:13:25,Jueves
+L-2024-0035,Dureza,Balanza-03,Conforme,Linea B,09:08:56,Viernes
+L-2024-0090,Peso promedio,Balanza-03,Conforme,Linea B,20:17:07,Miercoles
+L-2024-0257,pH,phmetro-01,Conforme,Linea B,08:02:30,Martes
+L-2024-0023,Tiempo de desintegracion,HPLC-01,Conforme,Linea B,06:41:38,Viernes
+L-2024-0054,pH,,Conforme,Linea A,16:46:49,Lunes
+L-2024-0184,Tiempo de desintegracion,Disolutor-02,Alerta,Linea A,10:25:24,Viernes
+L-2024-0068,Humedad,phmetro-01,Conforme,Linea B,21:54:01,Martes
+L-2024-0123,Disolucion 30 min,Termobalanza-01,Conforme,Linea A,09:23:46,Viernes
+L-2024-0028,Tiempo de desintegracion,Disolutor-01,Conforme,Linea B,06:35:12,Jueves
+L-2024-0091,Peso promedio,Balanza-03,Conforme,Linea B,06:54:35,Viernes
+L-2024-0070,Dureza,HPLC-02,Conforme,Linea A,13:12:52,Martes
+L-2024-0218,Humedad,,Conforme,Linea A,11:58:00,Viernes
+L-2024-0049,Tiempo de desintegracion,HPLC-02,Conforme,Linea A,06:02:50,Jueves
+L-2024-0090,Tiempo de desintegracion,Disolutor-02,Conforme,Linea A,13:46:28,Miercoles
+L-2024-0092,Espesor,Durometro-02,Conforme,Linea A,12:21:44,Martes
+L-2024-0229,Disolucion 30 min,Durometro-02,Conforme,Linea A,19:49:01,Martes
+L-2024-0201,Humedad,phmetro-01,Alerta,Linea A,07:20:02,Lunes
+L-2024-0242,Dureza,Termobalanza-01,Conforme,Linea B,08:50:14,Jueves
+L-2024-0178,Uniformidad de contenido,HPLC-02,Conforme,Linea A,11:02:28,Martes
+L-2024-0186,pH,Balanza-03,Conforme,Linea A,15:36:37,Martes
+L-2024-0239,Dureza,Disolutor-02,Conforme,Linea A,09:19:02,Lunes
+L-2024-0179,pH,Durometro-01,Conforme,Linea A,07:08:48,Lunes
+L-2024-0111,Peso promedio,Durometro-01,Conforme,Linea A,08:43:58,Lunes
+L-2024-0020,Friabilidad,phmetro-01,Conforme,Linea B,12:46:31,Martes
+L-2024-0022,Friabilidad,Termobalanza-01,Conforme,Linea A,11:51:46,Martes
+L-2024-0105,Peso promedio,Disolutor-01,Conforme,Linea A,13:06:55,Jueves
+L-2024-0155,Humedad,Balanza-03,Fuera de Especificacion (OOS),Linea A,18:11:23,Jueves
+L-2024-0231,Peso promedio,HPLC-01,Alerta,Linea A,11:42:18,Lunes
+L-2024-0143,Dureza,Durometro-01,Conforme,Linea B,21:05:21,Jueves
+L-2024-0151,Humedad,phmetro-01,Conforme,Linea B,08:42:55,Jueves
+L-2024-0028,Dureza,Durometro-01,Conforme,Linea B,20:02:12,Miercoles
+L-2024-0159,Friabilidad,Termobalanza-01,Conforme,Linea B,07:03:31,Martes
+L-2024-0041,Friabilidad,Balanza-04,Conforme,Linea A,13:31:11,Viernes
+L-2024-0089,Dureza,Durometro-02,Conforme,Linea B,18:04:35,Lunes
+L-2024-0233,Uniformidad de contenido,HPLC-02,Conforme,Linea B,07:25:08,Miercoles
+L-2024-0075,Tiempo de desintegracion,Durometro-01,Conforme,Linea B,16:44:46,Lunes
+L-2024-0225,Friabilidad,HPLC-02,Conforme,Linea A,06:45:28,Viernes
+L-2024-0106,Uniformidad de contenido,HPLC-01,Conforme,Linea B,10:06:09,Miercoles
+L-2024-0247,Peso promedio,Balanza-03,Conforme,Linea B,10:37:39,Jueves
+L-2024-0206,Uniformidad de contenido,HPLC-01,Conforme,Linea A,12:51:00,Lunes
+L-2024-0110,Dureza,Balanza-03,Conforme,linea a,18:46:04,Miercoles
+L-2024-0163,Uniformidad de contenido,Disolutor-02,Conforme,Linea B,18:43:11,Miercoles
+L-2024-0030,Espesor,Termobalanza-01,Conforme,Linea A,16:35:18,Lunes
+L-2024-0017,Tiempo de desintegracion,Balanza-03,Conforme,Linea A,11:51:29,Jueves
+L-2024-0240,pH,Durometro-02,Conforme,Linea A,13:30:48,Miercoles
+L-2024-0093,pH,HPLC-02,Conforme,Linea A,17:10:30,Lunes
+L-2024-0069,Friabilidad,HPLC-01,Conforme,Linea A,06:33:39,Viernes
+L-2024-0119,pH,HPLC-02,Conforme,Linea A,06:03:12,Martes
+L-2024-0028,pH,Durometro-01,Conforme,Linea A,07:03:38,Jueves
+L-2024-0172,Dureza,Disolutor-01,Alerta,Linea B,16:44:43,Lunes
+L-2024-0244,Tiempo de desintegracion,HPLC-01,Conforme,Linea A,09:13:27,Viernes
+L-2024-0082,Peso promedio,HPLC-01,Alerta,Linea A,08:43:53,Miercoles
+L-2024-0069,Friabilidad,HPLC-02,Conforme,Linea A,18:23:38,Lunes
+L-2024-0158,Friabilidad,HPLC-01,Conforme,Linea A,10:16:56,Martes
+L-2024-0137,Disolucion 30 min,Durometro-01,Conforme,Linea B,07:26:35,Martes
+L-2024-0247,Espesor,Durometro-02,Conforme,Linea A,21:20:20,Lunes
+L-2024-0196,Espesor,HPLC-01,Alerta,Linea A,06:57:43,Jueves
+L-2024-0228,Humedad,HPLC-02,Conforme,Linea B,07:22:26,Lunes
+L-2024-0206,Tiempo de desintegracion,Termobalanza-01,Fuera de Especificacion (OOS),Linea B,06:21:16,Jueves
+L-2024-0223,Peso promedio,HPLC-01,Alerta,Linea A,21:17:36,Lunes
+L-2024-0004,Uniformidad de contenido,HPLC-01,Conforme,Linea A,16:22:19,Lunes
+L-2024-0210,Humedad,Balanza-03,Conforme,Linea B,16:03:34,Martes
+L-2024-0026,Humedad,Durometro-02,Conforme,Linea B,09:11:30,Jueves
+L-2024-0116,Uniformidad de contenido,HPLC-02,Conforme,Linea A,07:55:46,Miercoles
+L-2024-0172,Friabilidad,Balanza-03,Alerta,Linea B,07:46:12,Viernes
+L-2024-0212,Tiempo de desintegracion,phmetro-01,Conforme,Linea B,15:31:00,Viernes
+L-2024-0173,Humedad,Disolutor-01,Alerta,Linea B,06:41:25,Lunes
+L-2024-0134,pH,Durometro-01,Conforme,Linea B,10:29:38,Jueves
+L-2024-0128,pH,Disolutor-02,Conforme,Linea B,11:27:46,Jueves
+L-2024-0160,Dureza,HPLC-01,Conforme,Linea A,11:45:29,Jueves
+L-2024-0123,pH,HPLC-01,Conforme,Linea A,08:04:50,Martes
+L-2024-0187,Tiempo de desintegracion,Balanza-04,Conforme,linea b,17:47:01,Martes
+L-2024-0020,pH,phmetro-01,Conforme,Linea A,19:26:58,Lunes
+L-2024-0177,pH,HPLC-01,Conforme,Linea A,19:40:10,Miercoles
+L-2024-0073,,Durometro-01,Alerta,Linea A,09:13:30,Lunes
+L-2024-0004,Espesor,Termobalanza-01,Conforme,Linea A,09:10:43,Martes
+L-2024-0256,Dureza,Balanza-04,Alerta,Linea A,13:09:15,Viernes
+L-2024-0218,Dureza,HPLC-02,Conforme,Linea A,19:18:10,Miercoles
+L-2024-0184,Tiempo de desintegracion,Disolutor-01,Conforme,Linea A,18:03:24,Jueves
+L-2024-0147,pH,phmetro-01,Conforme,Linea B,19:21:44,Martes
+L-2024-0128,Dureza,HPLC-02,Conforme,Linea A,19:04:56,Lunes
+L-2024-0029,Disolucion 30 min,Disolutor-01,Conforme,Linea A,10:22:47,Viernes
+L-2024-0071,Humedad,phmetro-01,Fuera de Tendencia (OOT),Linea B,09:00:53,Martes
+L-2024-0178,Peso promedio,HPLC-02,Alerta,Linea B,20:36:42,Martes
+L-2024-0154,pH,Disolutor-02,Conforme,Linea A,12:11:23,Martes
+L-2024-0167,Friabilidad,HPLC-02,Conforme,Linea A,21:04:37,Viernes
+L-2024-0108,Espesor,Durometro-02,Conforme,Linea A,07:02:51,Miercoles
+L-2024-0207,Peso promedio,Balanza-04,Conforme,linea b,17:15:29,Miercoles
+L-2024-0146,Espesor,Balanza-04,Alerta,Linea A,17:22:46,Jueves
+L-2024-0138,Espesor,Balanza-04,Conforme,Linea A,13:13:07,Lunes
+L-2024-0065,Peso promedio,Balanza-04,Alerta,Linea A,07:20:41,Viernes
+L-2024-0150,Disolucion 30 min,Durometro-02,Conforme,Linea A,16:39:17,Lunes
+L-2024-0133,Espesor,Durometro-02,Conforme,Linea B,13:29:20,Martes
+L-2024-0041,Tiempo de desintegracion,HPLC-01,Conforme,Linea A,16:21:01,Viernes
+L-2024-0253,Humedad,Durometro-02,Conforme,Linea A,12:56:07,Martes
+L-2024-0240,Tiempo de desintegracion,phmetro-01,Conforme,Linea A,10:11:37,Martes
+L-2024-0171,,Balanza-04,Conforme,Linea A,17:02:58,Miercoles
+L-2024-0211,Dureza,HPLC-02,Conforme,Linea B,08:03:11,Miercoles
+L-2024-0142,Uniformidad de contenido,Durometro-02,Conforme,Linea A,18:52:05,Martes
+L-2024-0168,Tiempo de desintegracion,Disolutor-01,Conforme,Linea A,19:05:52,Miercoles
+L-2024-0236,Disolucion 30 min,HPLC-02,Conforme,Linea A,14:46:54,Jueves
+L-2024-0142,Espesor,HPLC-02,Conforme,Linea A,17:10:36,Martes
+L-2024-0002,Peso promedio,Durometro-02,Conforme,Linea A,20:22:42,Jueves
+L-2024-0132,pH,HPLC-01,Conforme,Linea A,10:42:04,Viernes
+L-2024-0024,pH,Balanza-04,Conforme,Linea A,07:53:27,Miercoles
+L-2024-0083,Friabilidad,Balanza-03,Conforme,Linea B,14:27:58,Martes
+L-2024-0141,Disolucion 30 min,Balanza-03,Conforme,Linea A,14:18:28,Martes
+L-2024-0235,Dureza,Disolutor-01,Conforme,Linea A,18:26:11,Miercoles
+L-2024-0164,Dureza,Termobalanza-01,Conforme,Linea A,08:55:23,Miercoles
+L-2024-0188,Dureza,Disolutor-02,Conforme,Linea B,16:10:20,Martes
+L-2024-0241,Uniformidad de contenido,Disolutor-01,Conforme,Linea A,14:23:09,Viernes
+L-2024-0048,pH,HPLC-01,Conforme,Linea A,20:22:19,Martes
+L-2024-0202,Dureza,Durometro-01,Conforme,Linea A,18:30:02,Viernes
+L-2024-0229,Tiempo de desintegracion,HPLC-02,Conforme,Linea A,21:26:35,Miercoles
+L-2024-0003,Dureza,Durometro-01,Fuera de Especificacion (OOS),Linea B,15:56:36,Viernes
+L-2024-0208,Dureza,HPLC-01,Conforme,Linea A,18:10:21,Jueves
+L-2024-0068,Friabilidad,Balanza-04,Alerta,Linea B,09:30:33,Jueves
+L-2024-0143,Humedad,Termobalanza-01,Conforme,linea a,16:03:45,Viernes
+L-2024-0208,Friabilidad,Durometro-02,Fuera de Tendencia (OOT),Linea B,07:39:50,Lunes
+L-2024-0166,Espesor,Disolutor-02,Conforme,Linea A,16:39:06,Miercoles
+L-2024-0015,Disolucion 30 min,Durometro-01,Conforme,Linea A,17:54:31,Lunes
+L-2024-0205,pH,phmetro-01,Alerta,Linea B,15:22:14,Jueves
+L-2024-0223,Peso promedio,Durometro-01,Conforme,Linea A,21:48:18,Miercoles
+L-2024-0139,Uniformidad de contenido,Balanza-04,Conforme,Linea A,14:09:27,Martes
+L-2024-0240,Uniformidad de contenido,Durometro-02,Conforme,Linea A,09:09:47,Miercoles
+L-2024-0095,Espesor,Durometro-02,Alerta,Linea A,14:28:15,Miercoles
+L-2024-0001,Uniformidad de contenido,phmetro-01,Conforme,Linea A,14:15:39,Miercoles
+L-2024-0234,Friabilidad,Disolutor-01,Conforme,Linea A,15:14:33,Lunes
+L-2024-0085,Disolucion 30 min,HPLC-02,Conforme,Linea A,15:00:04,Martes
+L-2024-0123,Friabilidad,HPLC-01,Conforme,Linea A,12:15:57,Miercoles
+L-2024-0163,pH,HPLC-02,Conforme,Linea A,17:50:37,Miercoles
+L-2024-0121,pH,Disolutor-01,Conforme,Linea B,20:36:23,Viernes
+L-2024-0016,Peso promedio,Disolutor-02,Conforme,Linea A,06:03:51,Miercoles
+L-2024-0257,Espesor,Balanza-04,Conforme,Linea B,12:07:25,Viernes
+L-2024-0154,,Disolutor-01,Conforme,Linea A,08:55:59,Miercoles
+L-2024-0017,Peso promedio,Durometro-01,Conforme,Linea B,18:57:30,Viernes
+L-2024-0248,Humedad,HPLC-01,Conforme,Linea B,19:56:56,Jueves
+L-2024-0085,Dureza,Durometro-01,Fuera de Especificacion (OOS),Linea B,07:59:26,Jueves
+L-2024-0173,Friabilidad,Durometro-01,Conforme,Linea A,18:56:21,Jueves
+L-2024-0049,Humedad,Balanza-03,Conforme,Linea B,21:34:04,Martes
+L-2024-0178,Dureza,Balanza-04,Conforme,Linea B,07:05:47,Jueves
+L-2024-0249,Tiempo de desintegracion,HPLC-01,Fuera de Especificacion (OOS),Linea A,13:52:07,Lunes
+L-2024-0064,Uniformidad de contenido,Durometro-02,Fuera de Especificacion (OOS),Linea B,10:16:13,Lunes
+L-2024-0060,Friabilidad,Durometro-02,Conforme,Linea A,17:04:02,Lunes
+L-2024-0188,Tiempo de desintegracion,Durometro-01,Conforme,Linea A,13:10:26,Martes
+L-2024-0064,Dureza,Durometro-01,Conforme,Linea A,13:57:44,Martes
+L-2024-0179,Espesor,Balanza-04,Conforme,Linea B,10:24:18,Miercoles
+L-2024-0002,Espesor,HPLC-01,Conforme,Linea B,07:33:59,Lunes
+L-2024-0077,Dureza,Durometro-02,Conforme,Linea B,15:16:43,Miercoles
+L-2024-0133,Friabilidad,Balanza-03,Conforme,Linea A,10:54:15,Lunes
+L-2024-0042,Tiempo de desintegracion,phmetro-01,Conforme,Linea B,09:57:31,Jueves
+L-2024-0232,Peso promedio,HPLC-01,Conforme,Linea A,18:03:13,Martes
+L-2024-0195,Peso promedio,HPLC-01,Conforme,Linea A,07:55:47,Miercoles
+L-2024-0240,pH,HPLC-02,Conforme,Linea A,06:48:22,Viernes
+L-2024-0101,Peso promedio,Balanza-03,Conforme,Linea A,12:47:46,Miercoles
+L-2024-0006,Dureza,Durometro-02,Conforme,Linea A,19:24:12,Lunes
+L-2024-0161,Uniformidad de contenido,HPLC-02,Conforme,Linea B,14:15:43,Jueves
+L-2024-0240,Espesor,HPLC-01,Conforme,Linea A,08:57:01,Viernes
+L-2024-0052,Humedad,Termobalanza-01,Conforme,Linea A,10:37:23,Lunes
+L-2024-0125,Espesor,HPLC-01,Conforme,Linea B,11:38:14,Miercoles
+L-2024-0207,Peso promedio,HPLC-01,Conforme,Linea A,10:25:26,Martes
+L-2024-0065,Humedad,,Conforme,Linea B,06:02:54,Miercoles
+L-2024-0066,Disolucion 30 min,Termobalanza-01,Conforme,Linea B,21:17:56,Lunes
+L-2024-0028,Uniformidad de contenido,Balanza-03,Fuera de Especificacion (OOS),Linea B,15:40:54,Miercoles
+L-2024-0240,Tiempo de desintegracion,Durometro-02,Conforme,Linea A,13:44:16,Miercoles
+L-2024-0018,Humedad,Durometro-02,Conforme,Linea B,12:54:34,Martes
+L-2024-0102,Tiempo de desintegracion,Disolutor-02,Conforme,Linea A,12:37:22,Martes
+L-2024-0083,Disolucion 30 min,HPLC-01,Conforme,Linea A,06:20:17,Martes
+L-2024-0167,Friabilidad,Disolutor-02,Conforme,Linea B,19:53:03,Jueves
+L-2024-0108,Uniformidad de contenido,Disolutor-01,Conforme,Linea A,14:39:32,Lunes
+L-2024-0002,Uniformidad de contenido,HPLC-01,Alerta,Linea A,06:34:13,Miercoles
+L-2024-0224,Uniformidad de contenido,Durometro-01,Conforme,Linea B,14:22:45,Viernes
+L-2024-0041,Friabilidad,phmetro-01,Alerta,linea b,17:50:04,Lunes
+L-2024-0167,Disolucion 30 min,Balanza-04,Conforme,linea a,16:37:46,Viernes
+L-2024-0216,pH,phmetro-01,Conforme,Linea A,08:26:49,Lunes
+L-2024-0038,Tiempo de desintegracion,HPLC-02,Conforme,Linea A,13:13:26,Lunes
+L-2024-0064,Dureza,Disolutor-02,Fuera de Especificacion (OOS),Linea A,13:58:35,Miercoles
+L-2024-0104,Humedad,Balanza-04,Conforme,Linea B,12:21:11,Jueves
+L-2024-0160,Uniformidad de contenido,Disolutor-01,Conforme,Linea B,17:05:49,Lunes
+L-2024-0079,Friabilidad,Durometro-02,Conforme,linea b,13:13:06,Martes
+L-2024-0203,pH,HPLC-01,Conforme,Linea B,10:44:04,Lunes
+L-2024-0113,Humedad,,Conforme,Linea B,09:24:55,Martes
+L-2024-0159,Tiempo de desintegracion,Disolutor-02,Conforme,Linea A,11:31:27,Viernes
+L-2024-0142,pH,Balanza-04,Conforme,Linea B,11:33:38,Viernes
+L-2024-0106,Tiempo de desintegracion,Balanza-04,Conforme,Linea A,12:14:08,Lunes
+L-2024-0151,Espesor,Durometro-02,Fuera de Especificacion (OOS),Linea A,20:52:48,Martes
+L-2024-0097,Uniformidad de contenido,Durometro-01,Alerta,Linea A,10:59:44,Martes
+L-2024-0231,Humedad,HPLC-02,Conforme,Linea A,07:18:20,Miercoles
+L-2024-0119,pH,HPLC-01,Conforme,Linea B,17:09:17,Lunes
+L-2024-0171,Dureza,Disolutor-01,Alerta,Linea A,18:09:30,Lunes
+L-2024-0003,Peso promedio,Balanza-03,Fuera de Especificacion (OOS),linea a,06:07:22,Lunes
+L-2024-0245,Peso promedio,phmetro-01,Conforme,Linea A,11:34:46,Miercoles
+L-2024-0034,Dureza,Termobalanza-01,Conforme,Linea A,20:03:04,Miercoles
+L-2024-0201,Dureza,HPLC-02,Conforme,Linea A,17:50:46,Martes
+L-2024-0132,Peso promedio,Termobalanza-01,Alerta,Linea A,07:39:15,Lunes
+L-2024-0128,Tiempo de desintegracion,phmetro-01,Conforme,Linea B,06:30:37,Martes
+L-2024-0062,Peso promedio,Disolutor-01,Conforme,Linea A,10:22:23,Miercoles
+L-2024-0035,Peso promedio,Balanza-04,Conforme,Linea B,17:27:31,Miercoles
+L-2024-0143,Disolucion 30 min,Balanza-03,Conforme,Linea B,06:50:52,Viernes
+L-2024-0244,Dureza,Durometro-01,Conforme,Linea B,14:08:04,Viernes
+L-2024-0159,Espesor,HPLC-02,Alerta,Linea B,09:59:18,Lunes
+L-2024-0143,Tiempo de desintegracion,phmetro-01,Conforme,Linea B,17:04:40,Miercoles
+L-2024-0193,Tiempo de desintegracion,phmetro-01,Conforme,Linea A,11:11:50,Martes
+L-2024-0145,Espesor,Durometro-02,Alerta,Linea B,12:16:55,Lunes
+L-2024-0056,Humedad,phmetro-01,Conforme,Linea A,10:39:35,Jueves
+L-2024-0194,Uniformidad de contenido,Balanza-04,Alerta,Linea A,13:40:54,Lunes
+L-2024-0223,Disolucion 30 min,phmetro-01,Conforme,Linea A,19:23:07,Viernes
+L-2024-0031,Dureza,phmetro-01,Conforme,Linea B,09:01:39,Lunes
+L-2024-0221,Disolucion 30 min,HPLC-01,Fuera de Tendencia (OOT),Linea A,07:54:56,Jueves
+L-2024-0206,Peso promedio,Disolutor-01,Alerta,Linea A,13:32:55,Lunes
+L-2024-0221,Peso promedio,HPLC-01,Conforme,Linea A,06:52:49,Miercoles
+L-2024-0216,Uniformidad de contenido,Durometro-02,Conforme,Linea A,20:33:35,Miercoles
+L-2024-0137,pH,HPLC-01,Conforme,Linea A,12:04:38,Jueves
+L-2024-0092,Disolucion 30 min,Disolutor-02,Conforme,Linea A,09:15:22,Miercoles
+L-2024-0219,pH,phmetro-01,Conforme,Linea B,11:01:19,Jueves
+L-2024-0156,Uniformidad de contenido,,Fuera de Especificacion (OOS),Linea B,13:12:48,Miercoles
+L-2024-0111,Disolucion 30 min,Balanza-04,Alerta,linea a,09:31:02,Miercoles
+L-2024-0075,Tiempo de desintegracion,Durometro-02,Conforme,Linea B,21:39:25,Martes
+L-2024-0199,Humedad,phmetro-01,Conforme,Linea A,13:41:38,Viernes
+L-2024-0189,Disolucion 30 min,Disolutor-02,Conforme,Linea B,12:05:44,Lunes
+L-2024-0083,Uniformidad de contenido,HPLC-02,Fuera de Especificacion (OOS),Linea A,08:50:42,Lunes
+L-2024-0068,Uniformidad de contenido,Durometro-01,Conforme,Linea A,11:50:11,Jueves
+L-2024-0091,Peso promedio,HPLC-02,Fuera de Especificacion (OOS),Linea B,11:29:05,Lunes
+L-2024-0230,Dureza,Termobalanza-01,Conforme,Linea A,15:24:11,Miercoles
+L-2024-0175,Peso promedio,Balanza-04,Conforme,Linea B,09:44:28,Lunes
+L-2024-0243,Uniformidad de contenido,Durometro-02,Fuera de Especificacion (OOS),linea b,07:01:28,Lunes
+L-2024-0174,Tiempo de desintegracion,HPLC-02,Conforme,Linea B,14:06:59,Miercoles
+L-2024-0130,pH,Balanza-03,Conforme,Linea B,07:26:14,Jueves
+L-2024-0069,Friabilidad,Disolutor-01,Conforme,Linea A,10:15:39,Lunes
+L-2024-0089,Dureza,Disolutor-02,Conforme,Linea A,07:00:40,Martes
+L-2024-0022,Espesor,Termobalanza-01,Conforme,Linea A,16:20:03,Martes
+L-2024-0198,Dureza,Disolutor-02,Conforme,Linea B,14:41:12,Martes
+L-2024-0221,pH,Termobalanza-01,Fuera de Tendencia (OOT),Linea B,10:04:40,Lunes
+L-2024-0010,Disolucion 30 min,Disolutor-02,Alerta,Linea B,08:39:32,Jueves
+L-2024-0101,Peso promedio,Balanza-04,Conforme,linea b,08:33:47,Miercoles
+L-2024-0070,Espesor,Durometro-01,Conforme,Linea B,19:14:51,Lunes
+L-2024-0168,pH,Termobalanza-01,Conforme,Linea B,14:38:36,Martes
+L-2024-0004,Disolucion 30 min,HPLC-01,Conforme,Linea A,21:13:19,Lunes
+L-2024-0111,Humedad,Durometro-02,Fuera de Especificacion (OOS),Linea A,11:05:52,Viernes
+L-2024-0190,Espesor,Balanza-04,Conforme,Linea B,16:51:15,Jueves
+L-2024-0238,Friabilidad,Balanza-03,Alerta,Linea B,15:12:27,Martes
+L-2024-0132,Friabilidad,Termobalanza-01,Conforme,Linea A,17:33:38,Martes
+L-2024-0074,Dureza,Durometro-02,Conforme,Linea A,07:05:09,Viernes
+L-2024-0255,Espesor,HPLC-02,Conforme,Linea B,14:11:00,Lunes
+L-2024-0086,Peso promedio,Disolutor-01,Conforme,Linea B,09:35:36,Miercoles
+L-2024-0203,Peso promedio,,Conforme,Linea A,13:10:17,Martes
+L-2024-0111,Friabilidad,,Fuera de Tendencia (OOT),Linea A,17:25:33,Jueves
+L-2024-0078,Friabilidad,Balanza-03,Alerta,Linea A,11:19:26,Martes
+L-2024-0182,pH,phmetro-01,Conforme,Linea B,19:53:11,Viernes
+L-2024-0124,Uniformidad de contenido,Termobalanza-01,Conforme,Linea B,07:55:06,Miercoles
+L-2024-0114,Uniformidad de contenido,HPLC-01,Conforme,Linea B,15:57:03,Martes
+L-2024-0091,Disolucion 30 min,HPLC-01,Alerta,Linea A,16:33:36,Lunes
+L-2024-0136,Tiempo de desintegracion,Durometro-01,Conforme,Linea A,15:20:46,Lunes
+L-2024-0005,Tiempo de desintegracion,Durometro-02,Alerta,Linea A,12:37:55,Lunes
+L-2024-0204,Peso promedio,Durometro-02,Conforme,Linea A,12:10:05,Martes
+L-2024-0011,Peso promedio,Termobalanza-01,Conforme,Linea A,11:47:50,Miercoles
+L-2024-0076,Disolucion 30 min,Durometro-01,Conforme,linea a,15:03:24,Lunes
+L-2024-0171,pH,Balanza-03,Conforme,Linea A,13:59:26,Viernes
+L-2024-0043,Dureza,Disolutor-02,Conforme,Linea A,16:00:55,Viernes
+L-2024-0233,Dureza,HPLC-02,Conforme,Linea A,20:03:21,Miercoles
+L-2024-0202,pH,Disolutor-01,Alerta,Linea A,08:06:55,Martes
+L-2024-0210,Friabilidad,Termobalanza-01,Alerta,Linea B,18:55:12,Lunes
+L-2024-0108,Humedad,Balanza-03,Conforme,Linea B,12:04:21,Viernes
+L-2024-0071,Peso promedio,phmetro-01,Conforme,Linea B,09:37:09,Jueves
+L-2024-0116,Dureza,HPLC-02,Conforme,Linea B,10:18:01,Viernes
+L-2024-0148,Disolucion 30 min,phmetro-01,Conforme,Linea A,21:09:43,Lunes
+L-2024-0106,Peso promedio,Balanza-03,Conforme,Linea B,13:21:46,Lunes
+L-2024-0060,Dureza,Durometro-01,Conforme,linea b,17:18:51,Martes
+L-2024-0052,Uniformidad de contenido,Durometro-01,Conforme,Linea A,11:10:22,Viernes
+L-2024-0090,Disolucion 30 min,Termobalanza-01,Conforme,Linea A,08:39:21,Miercoles
+L-2024-0007,pH,Durometro-01,Conforme,Linea B,09:07:12,Miercoles
+L-2024-0175,Espesor,Balanza-04,Conforme,Linea A,16:52:52,Lunes
+L-2024-0128,pH,Balanza-03,Conforme,Linea A,14:53:00,Lunes
+L-2024-0258,Espesor,Termobalanza-01,Alerta,Linea A,20:25:19,Miercoles
+L-2024-0210,pH,Balanza-03,Alerta,Linea A,13:14:40,Miercoles
+L-2024-0197,Peso promedio,Termobalanza-01,Conforme,Linea B,13:48:05,Lunes
+L-2024-0112,Humedad,Balanza-04,Alerta,Linea A,19:48:54,Lunes
+L-2024-0115,Tiempo de desintegracion,Balanza-03,Conforme,Linea B,15:05:09,Lunes
+L-2024-0222,pH,HPLC-01,Conforme,Linea B,11:53:36,Lunes
+L-2024-0244,Dureza,Balanza-04,Conforme,Linea A,14:30:01,Martes
+L-2024-0250,Espesor,Disolutor-02,Conforme,Linea A,15:37:34,Viernes
+L-2024-0008,Tiempo de desintegracion,,Conforme,Linea A,19:22:37,Martes
+L-2024-0177,Espesor,HPLC-02,Conforme,linea b,13:58:09,Martes
+L-2024-0164,Peso promedio,Durometro-01,Conforme,Linea B,06:05:09,Lunes
+L-2024-0199,Espesor,Balanza-04,Alerta,Linea B,13:06:14,Jueves
+L-2024-0063,Disolucion 30 min,Balanza-04,Conforme,Linea B,12:43:12,Viernes
+L-2024-0176,pH,Balanza-03,Conforme,Linea A,21:33:32,Jueves
+L-2024-0036,,HPLC-02,Conforme,Linea A,18:59:38,Jueves
+L-2024-0225,Dureza,HPLC-01,Conforme,Linea A,07:24:09,Martes
+L-2024-0127,Friabilidad,Termobalanza-01,Conforme,Linea A,21:58:29,Viernes
+L-2024-0190,Espesor,Disolutor-02,Conforme,Linea A,11:40:07,Miercoles
+L-2024-0256,Uniformidad de contenido,HPLC-02,Conforme,Linea A,15:13:43,Lunes
+L-2024-0138,Tiempo de desintegracion,Termobalanza-01,Conforme,Linea B,06:37:43,Miercoles
+L-2024-0012,Peso promedio,phmetro-01,Conforme,Linea A,08:47:19,Martes
+L-2024-0160,Uniformidad de contenido,Balanza-04,Conforme,Linea A,18:04:44,Jueves
+L-2024-0103,Tiempo de desintegracion,Disolutor-02,Conforme,Linea A,11:41:48,Jueves
+L-2024-0143,Peso promedio,Termobalanza-01,Conforme,Linea A,08:50:21,Lunes
+L-2024-0016,Peso promedio,Disolutor-02,Conforme,Linea A,06:03:51,Miercoles
+L-2024-0221,Uniformidad de contenido,phmetro-01,Conforme,Linea A,16:06:36,Martes
+L-2024-0142,Friabilidad,Durometro-01,Alerta,Linea A,14:49:33,Lunes
+L-2024-0067,pH,Disolutor-01,Alerta,Linea B,11:03:42,Lunes
+L-2024-0170,Dureza,Durometro-01,Conforme,Linea B,09:59:49,Martes
+L-2024-0042,pH,Balanza-03,Conforme,Linea A,06:51:48,Lunes
+L-2024-0256,Disolucion 30 min,phmetro-01,Conforme,Linea A,06:32:39,Jueves
+L-2024-0019,Espesor,Durometro-01,Alerta,Linea B,14:27:51,Martes
+L-2024-0159,Uniformidad de contenido,Disolutor-01,Conforme,Linea A,16:01:59,Martes
+L-2024-0205,Peso promedio,phmetro-01,Conforme,Linea A,11:24:25,Jueves
+L-2024-0204,Espesor,HPLC-01,Conforme,Linea A,16:51:26,Miercoles
+L-2024-0024,Humedad,Balanza-04,Conforme,Linea B,12:31:58,Lunes
+L-2024-0246,Friabilidad,Disolutor-01,Conforme,linea a,09:21:32,Viernes
+L-2024-0072,Humedad,,Conforme,Linea A,17:58:23,Lunes
+L-2024-0244,Disolucion 30 min,HPLC-01,Conforme,Linea B,14:04:16,Miercoles
+L-2024-0219,Tiempo de desintegracion,Balanza-03,Fuera de Tendencia (OOT),Linea A,09:50:55,Lunes
+L-2024-0155,Dureza,Balanza-03,Fuera de Especificacion (OOS),Linea A,17:10:41,Martes
+L-2024-0050,Uniformidad de contenido,HPLC-01,Alerta,Linea A,06:50:41,Viernes
+L-2024-0059,Espesor,Balanza-04,Conforme,Linea A,15:52:50,Jueves
+L-2024-0012,Disolucion 30 min,Durometro-02,Conforme,Linea A,09:31:03,Lunes
+L-2024-0040,Friabilidad,Balanza-04,Conforme,Linea A,13:34:04,Lunes
+L-2024-0184,Disolucion 30 min,phmetro-01,Conforme,Linea A,19:33:36,Miercoles
+L-2024-0133,Friabilidad,Durometro-02,Conforme,Linea B,20:37:03,Viernes
+L-2024-0129,Humedad,Disolutor-01,Alerta,Linea A,10:14:53,Lunes
+L-2024-0254,Tiempo de desintegracion,Balanza-03,Alerta,linea b,12:41:04,Lunes
+L-2024-0106,Uniformidad de contenido,Termobalanza-01,Alerta,Linea A,15:48:33,Martes
+L-2024-0135,Friabilidad,Durometro-02,Conforme,Linea B,19:59:29,Jueves
+L-2024-0083,Humedad,HPLC-01,Alerta,linea a,06:21:13,Lunes
+L-2024-0135,Disolucion 30 min,,Conforme,Linea B,06:34:53,Martes
+L-2024-0112,Humedad,Disolutor-02,Conforme,Linea A,15:22:18,Miercoles
+L-2024-0108,Peso promedio,Disolutor-01,Conforme,Linea A,10:17:27,Jueves
+L-2024-0036,Friabilidad,HPLC-02,Conforme,Linea B,11:25:16,Martes
+L-2024-0082,Friabilidad,Durometro-01,Conforme,Linea B,08:50:46,Miercoles
+L-2024-0104,Espesor,Disolutor-02,Conforme,Linea A,11:35:54,Viernes
+L-2024-0120,pH,Durometro-02,Conforme,Linea A,17:26:23,Viernes
+L-2024-0034,Espesor,Durometro-02,Conforme,Linea B,20:38:48,Lunes
+L-2024-0213,Disolucion 30 min,HPLC-02,Alerta,Linea B,06:26:32,Martes
+L-2024-0212,Tiempo de desintegracion,,Conforme,Linea A,11:00:09,Lunes
+L-2024-0198,,Durometro-01,Alerta,Linea A,06:19:50,Lunes
+L-2024-0093,Tiempo de desintegracion,Durometro-01,Conforme,Linea B,16:49:38,Jueves
+L-2024-0032,Friabilidad,phmetro-01,Conforme,Linea A,06:04:56,Jueves
+L-2024-0062,pH,Balanza-03,Conforme,Linea B,07:58:45,Viernes
+L-2024-0001,pH,HPLC-02,Conforme,Linea A,11:22:12,Viernes
+L-2024-0184,Peso promedio,Balanza-03,Conforme,Linea A,16:57:36,Miercoles
+L-2024-0237,Tiempo de desintegracion,Termobalanza-01,Conforme,Linea A,20:07:02,Martes
+L-2024-0105,pH,Balanza-03,Conforme,Linea A,14:44:05,Viernes
+L-2024-0193,Espesor,Balanza-04,Conforme,Linea A,17:20:15,Jueves
+L-2024-0020,Disolucion 30 min,HPLC-02,Conforme,Linea A,18:08:59,Lunes
+L-2024-0100,Disolucion 30 min,Durometro-01,Alerta,Linea B,18:49:29,Viernes
+L-2024-0073,Espesor,Balanza-03,Conforme,Linea A,20:52:22,Martes
+L-2024-0177,Espesor,Balanza-03,Conforme,Linea B,21:54:47,Martes
+L-2024-0049,Disolucion 30 min,HPLC-02,Conforme,Linea A,17:01:04,Miercoles
+L-2024-0244,Tiempo de desintegracion,Balanza-04,Alerta,Linea B,18:18:31,Lunes
+L-2024-0094,Humedad,Balanza-04,Conforme,Linea B,15:26:26,Jueves
+L-2024-0217,Friabilidad,,Conforme,Linea A,08:40:45,Martes
+L-2024-0021,Tiempo de desintegracion,Durometro-01,Conforme,Linea B,07:22:47,Viernes
+L-2024-0118,Tiempo de desintegracion,Balanza-03,Conforme,Linea A,06:26:38,Viernes
+L-2024-0201,Dureza,Balanza-04,Alerta,Linea A,07:05:35,Lunes
+L-2024-0007,pH,Balanza-04,Conforme,Linea A,07:44:51,Jueves
+L-2024-0239,Espesor,Balanza-04,Conforme,Linea A,12:13:01,Viernes
+L-2024-0229,Disolucion 30 min,Balanza-03,Conforme,Linea B,12:40:24,Miercoles
+L-2024-0239,Espesor,,Conforme,Linea A,12:39:33,Lunes
+L-2024-0253,Uniformidad de contenido,Durometro-02,Conforme,Linea A,06:06:03,Jueves
+L-2024-0046,Peso promedio,HPLC-02,Conforme,Linea A,13:05:24,Jueves
+L-2024-0031,Espesor,Balanza-04,Fuera de Especificacion (OOS),Linea A,17:27:48,Miercoles
+L-2024-0112,Humedad,HPLC-02,Conforme,Linea B,21:06:53,Lunes
+L-2024-0134,Humedad,,Conforme,Linea B,13:12:08,Miercoles
+L-2024-0256,pH,Disolutor-02,Conforme,Linea A,09:16:10,Miercoles
+L-2024-0105,Tiempo de desintegracion,Disolutor-02,Conforme,Linea A,12:44:37,Viernes
+L-2024-0023,pH,Durometro-01,Conforme,Linea A,09:03:11,Miercoles
+L-2024-0218,Peso promedio,Termobalanza-01,Conforme,Linea B,13:38:31,Lunes
+L-2024-0167,Dureza,Disolutor-02,Conforme,Linea B,19:09:43,Jueves
+L-2024-0115,Disolucion 30 min,Disolutor-01,Conforme,Linea B,08:33:47,Martes
+L-2024-0079,Disolucion 30 min,Balanza-03,Conforme,linea b,16:12:22,Viernes
+L-2024-0216,Disolucion 30 min,Balanza-04,Conforme,Linea A,07:02:08,Viernes
+L-2024-0187,Espesor,Balanza-04,Conforme,Linea B,06:10:46,Viernes
+L-2024-0005,Disolucion 30 min,phmetro-01,Conforme,Linea B,19:48:25,Miercoles
+L-2024-0107,Disolucion 30 min,Termobalanza-01,Conforme,Linea A,07:23:07,Lunes
+L-2024-0072,Peso promedio,Durometro-01,Conforme,Linea B,16:24:26,Lunes
+L-2024-0244,,HPLC-01,Conforme,Linea B,19:47:16,Jueves
+L-2024-0055,Espesor,Balanza-04,Conforme,Linea A,11:04:17,Lunes
+L-2024-0120,Humedad,Durometro-01,Conforme,Linea A,10:10:50,Miercoles
+L-2024-0184,Dureza,Durometro-02,Conforme,Linea A,09:25:51,Martes
+L-2024-0188,Humedad,HPLC-02,Conforme,Linea A,20:51:00,Martes
+L-2024-0103,pH,Durometro-02,Conforme,Linea B,14:42:42,Lunes
+L-2024-0080,Dureza,Termobalanza-01,Conforme,Linea B,16:57:35,Viernes
+L-2024-0195,Friabilidad,Balanza-03,Fuera de Especificacion (OOS),Linea A,06:20:40,Jueves
+L-2024-0251,Humedad,phmetro-01,Conforme,Linea B,15:25:43,Miercoles
+L-2024-0060,Friabilidad,phmetro-01,Conforme,linea b,18:53:35,Miercoles
+L-2024-0126,Dureza,HPLC-02,Conforme,Linea A,18:22:07,Miercoles
+L-2024-0019,Dureza,Balanza-03,Conforme,Linea A,15:02:00,Martes
+L-2024-0011,Uniformidad de contenido,HPLC-01,Conforme,Linea B,15:30:40,Jueves
+L-2024-0166,Peso promedio,Balanza-04,Conforme,Linea B,13:59:38,Lunes
+L-2024-0180,Espesor,Balanza-04,Conforme,Linea A,18:19:26,Viernes
+L-2024-0247,Uniformidad de contenido,HPLC-02,Conforme,Linea B,17:59:20,Viernes
+L-2024-0013,Espesor,HPLC-01,Conforme,linea a,09:40:30,Lunes
+L-2024-0045,Peso promedio,Termobalanza-01,Conforme,Linea A,16:49:25,Jueves
+L-2024-0131,Uniformidad de contenido,HPLC-02,Conforme,Linea A,19:19:36,Miercoles
+L-2024-0128,Peso promedio,HPLC-01,Conforme,Linea B,11:44:21,Viernes
+L-2024-0132,Tiempo de desintegracion,Disolutor-02,Conforme,Linea B,07:03:43,Miercoles
+L-2024-0116,Tiempo de desintegracion,Balanza-04,Conforme,Linea A,16:55:58,Jueves
+L-2024-0188,pH,HPLC-01,Conforme,Linea A,08:24:30,Lunes
+L-2024-0151,Uniformidad de contenido,Disolutor-02,Conforme,Linea A,14:22:16,Jueves
+L-2024-0246,Friabilidad,Disolutor-02,Conforme,Linea B,20:18:21,Lunes
+L-2024-0152,Dureza,Durometro-01,Conforme,Linea A,13:39:22,Lunes
+L-2024-0137,Peso promedio,Balanza-04,Conforme,Linea A,11:19:18,Martes
+L-2024-0052,Dureza,phmetro-01,Conforme,Linea A,19:39:18,Jueves
+L-2024-0218,Tiempo de desintegracion,Durometro-01,Conforme,Linea A,20:31:27,Miercoles
+L-2024-0181,Peso promedio,Disolutor-01,Conforme,Linea B,15:35:14,Martes
+L-2024-0254,Friabilidad,HPLC-01,Conforme,Linea A,10:56:11,Martes
+L-2024-0130,Disolucion 30 min,Disolutor-01,Conforme,Linea A,12:35:14,Viernes
+L-2024-0128,Peso promedio,Termobalanza-01,Alerta,Linea A,16:21:51,Lunes
+L-2024-0103,Peso promedio,Balanza-04,Conforme,Linea A,18:28:04,Miercoles
+L-2024-0016,Dureza,Termobalanza-01,Conforme,Linea A,07:36:48,Lunes
+L-2024-0179,Friabilidad,Disolutor-02,Fuera de Especificacion (OOS),Linea A,08:13:55,Miercoles
+L-2024-0252,Uniformidad de contenido,Balanza-04,Conforme,Linea A,09:22:40,Jueves
+L-2024-0017,Humedad,phmetro-01,Conforme,Linea A,18:03:20,Viernes
+L-2024-0001,Humedad,Balanza-03,Conforme,Linea A,06:16:34,Viernes
+L-2024-0063,Humedad,Disolutor-02,Conforme,Linea A,16:58:15,Viernes
+L-2024-0227,Disolucion 30 min,Disolutor-01,Conforme,Linea B,06:10:11,Viernes
+L-2024-0130,Dureza,Disolutor-02,Conforme,Linea B,10:51:47,Jueves
+L-2024-0047,Uniformidad de contenido,Disolutor-02,Conforme,Linea B,13:45:55,Viernes
+L-2024-0233,Humedad,phmetro-01,Conforme,Linea A,12:25:02,Martes
+L-2024-0019,Disolucion 30 min,Durometro-01,Alerta,Linea A,10:50:23,Jueves
+L-2024-0001,Humedad,Balanza-04,Conforme,Linea B,14:42:08,Miercoles
+L-2024-0103,Espesor,Durometro-02,Conforme,Linea B,13:14:12,Viernes
+L-2024-0200,Friabilidad,Balanza-03,Conforme,Linea A,20:09:36,Lunes
+L-2024-0206,Dureza,phmetro-01,Conforme,Linea B,12:40:31,Miercoles
+L-2024-0048,Disolucion 30 min,HPLC-02,Conforme,Linea B,17:52:43,Viernes
+L-2024-0237,Disolucion 30 min,HPLC-01,Conforme,Linea A,07:18:13,Lunes
+L-2024-0084,Disolucion 30 min,Disolutor-01,Alerta,Linea A,08:58:43,Lunes
+L-2024-0204,Peso promedio,Durometro-01,Alerta,Linea B,13:35:00,Lunes
+L-2024-0180,Disolucion 30 min,HPLC-01,Conforme,Linea A,14:01:56,Martes
+L-2024-0220,Tiempo de desintegracion,phmetro-01,Alerta,Linea A,14:03:24,Lunes
+L-2024-0248,Dureza,HPLC-02,Conforme,Linea B,10:55:31,Viernes
+L-2024-0049,Espesor,phmetro-01,Conforme,Linea B,17:23:06,Martes
+L-2024-0013,pH,HPLC-01,Fuera de Especificacion (OOS),Linea B,08:08:09,Martes
+L-2024-0010,Espesor,Termobalanza-01,Conforme,Linea B,06:26:05,Martes
+L-2024-0111,Tiempo de desintegracion,phmetro-01,Conforme,Linea A,06:48:43,Jueves
+L-2024-0026,Uniformidad de contenido,Disolutor-02,Conforme,Linea B,18:52:10,Jueves
+L-2024-0166,Peso promedio,Balanza-03,Conforme,Linea A,09:32:16,Lunes
+L-2024-0178,Humedad,Balanza-03,Fuera de Especificacion (OOS),Linea A,06:14:44,Lunes
+L-2024-0259,Peso promedio,HPLC-02,Conforme,Linea B,07:28:36,Jueves
+L-2024-0183,pH,Balanza-04,Conforme,Linea A,18:30:01,Martes
+L-2024-0032,Dureza,HPLC-02,Conforme,Linea B,21:42:55,Viernes
+L-2024-0043,Tiempo de desintegracion,Disolutor-02,Conforme,Linea A,09:48:29,Viernes
+L-2024-0117,pH,Durometro-01,Conforme,Linea B,18:28:11,Miercoles
+L-2024-0057,pH,Termobalanza-01,Conforme,Linea B,06:20:59,Martes
+L-2024-0046,Humedad,HPLC-02,Conforme,Linea B,08:21:09,Lunes
+L-2024-0021,Peso promedio,Disolutor-02,Alerta,Linea A,19:08:02,Martes
+L-2024-0058,Humedad,Durometro-02,Conforme,Linea A,11:45:34,Lunes
+L-2024-0119,pH,HPLC-01,Conforme,Linea A,15:58:26,Miercoles
+L-2024-0240,Humedad,Disolutor-02,Conforme,linea a,20:27:18,Lunes
+L-2024-0231,Dureza,Balanza-03,Fuera de Especificacion (OOS),Linea A,10:37:10,Lunes
+L-2024-0059,Disolucion 30 min,Balanza-03,Conforme,Linea B,15:01:57,Lunes
+L-2024-0063,Peso promedio,HPLC-01,Conforme,Linea B,08:36:13,Jueves
+L-2024-0113,Uniformidad de contenido,Disolutor-02,Conforme,Linea B,20:08:52,Jueves
+L-2024-0020,pH,Disolutor-01,Conforme,Linea B,08:41:37,Miercoles
+L-2024-0079,Peso promedio,Termobalanza-01,Conforme,Linea A,18:03:33,Miercoles
+L-2024-0226,pH,HPLC-02,Conforme,Linea A,20:03:21,Martes
+L-2024-0003,Tiempo de desintegracion,Durometro-02,Conforme,Linea A,18:14:33,Miercoles
+L-2024-0255,Espesor,HPLC-01,Conforme,Linea A,18:33:54,Lunes
+L-2024-0238,Peso promedio,Balanza-04,Conforme,Linea A,13:03:08,Lunes
+L-2024-0010,Espesor,Durometro-01,Conforme,Linea A,11:28:33,Miercoles
+L-2024-0201,pH,Durometro-01,Conforme,Linea A,07:18:58,Lunes
+L-2024-0212,Uniformidad de contenido,HPLC-02,Conforme,Linea A,13:47:56,Miercoles
+L-2024-0208,Peso promedio,Disolutor-01,Alerta,Linea A,09:01:45,Lunes
+L-2024-0205,Friabilidad,Disolutor-02,Conforme,Linea A,06:21:58,Viernes
+L-2024-0045,Disolucion 30 min,Balanza-04,Conforme,Linea B,12:17:34,Miercoles
+L-2024-0128,pH,HPLC-02,Conforme,Linea A,11:31:43,Miercoles
+L-2024-0029,Espesor,Termobalanza-01,Conforme,Linea A,06:55:36,Miercoles
+L-2024-0187,Dureza,Disolutor-01,Conforme,Linea A,10:02:36,Martes
+L-2024-0238,pH,Balanza-03,Fuera de Tendencia (OOT),Linea A,11:30:09,Lunes
+L-2024-0028,Espesor,Balanza-04,Conforme,Linea B,13:47:30,Jueves
+L-2024-0224,Espesor,Durometro-01,Conforme,Linea A,07:09:35,Viernes
+L-2024-0094,pH,phmetro-01,Conforme,Linea A,08:32:09,Lunes
+L-2024-0137,Humedad,Disolutor-02,Fuera de Especificacion (OOS),Linea A,12:22:01,Jueves
+L-2024-0013,Espesor,HPLC-01,Conforme,Linea A,16:13:44,Miercoles
+L-2024-0251,Peso promedio,Durometro-02,Conforme,Linea A,16:18:47,Lunes
+L-2024-0051,Peso promedio,Balanza-03,Conforme,Linea A,15:51:08,Lunes
+L-2024-0014,Friabilidad,Disolutor-02,Conforme,Linea A,06:39:23,Miercoles
+L-2024-0103,Humedad,Termobalanza-01,Conforme,Linea A,12:13:18,Miercoles
+L-2024-0052,Peso promedio,HPLC-02,Conforme,Linea A,18:05:58,Jueves
+L-2024-0062,Disolucion 30 min,Balanza-03,Conforme,linea a,21:52:16,Martes
+L-2024-0174,Disolucion 30 min,HPLC-01,Conforme,linea a,07:38:48,Lunes
+L-2024-0187,Uniformidad de contenido,Durometro-01,Conforme,Linea A,11:44:14,Jueves
+L-2024-0255,Uniformidad de contenido,phmetro-01,Conforme,linea a,14:28:49,Miercoles
+L-2024-0017,Peso promedio,phmetro-01,Conforme,Linea B,11:26:48,Jueves
+L-2024-0250,Tiempo de desintegracion,Termobalanza-01,Conforme,Linea A,13:45:20,Lunes
+L-2024-0229,Humedad,Disolutor-02,Conforme,Linea A,13:21:01,Lunes
+L-2024-0009,pH,phmetro-01,Conforme,Linea A,15:35:52,Jueves
+L-2024-0105,Dureza,Termobalanza-01,Conforme,Linea B,13:52:34,Miercoles
+L-2024-0114,Dureza,Durometro-01,Alerta,Linea A,08:04:30,Lunes
+L-2024-0089,Friabilidad,Termobalanza-01,Conforme,Linea A,08:11:54,Lunes
+L-2024-0100,Dureza,Termobalanza-01,Conforme,Linea B,09:54:25,Jueves
+L-2024-0113,pH,,Conforme,Linea A,09:51:01,Miercoles
+L-2024-0077,Disolucion 30 min,Balanza-03,Conforme,Linea B,13:43:23,Jueves
+L-2024-0254,Uniformidad de contenido,Disolutor-02,Conforme,Linea A,21:10:57,Viernes
+L-2024-0188,Dureza,Balanza-03,Conforme,linea b,07:54:32,Viernes
+L-2024-0129,Uniformidad de contenido,Disolutor-02,Conforme,Linea A,11:51:43,Miercoles
+L-2024-0124,,phmetro-01,Conforme,Linea A,07:05:54,Jueves
+L-2024-0139,Friabilidad,HPLC-02,Conforme,Linea B,09:45:31,Lunes
+L-2024-0241,Disolucion 30 min,Balanza-03,Conforme,Linea B,19:05:13,Martes
+L-2024-0155,Humedad,Durometro-02,Conforme,Linea A,13:24:50,Martes
+L-2024-0250,Tiempo de desintegracion,Durometro-01,Conforme,Linea A,07:10:56,Martes
+L-2024-0244,pH,Disolutor-02,Conforme,Linea B,12:13:46,Jueves
+L-2024-0193,Friabilidad,Disolutor-02,Conforme,Linea A,15:35:54,Viernes
+L-2024-0245,Espesor,Durometro-01,Alerta,Linea B,14:49:32,Viernes
+L-2024-0093,pH,Disolutor-02,Conforme,Linea A,19:45:10,Miercoles
+L-2024-0009,Espesor,phmetro-01,Conforme,Linea A,08:09:49,Jueves
+L-2024-0155,pH,Termobalanza-01,Fuera de Especificacion (OOS),Linea A,21:42:58,Jueves
+L-2024-0082,Humedad,HPLC-01,Alerta,Linea B,14:02:40,Miercoles
+L-2024-0190,pH,Disolutor-02,Alerta,Linea B,18:09:39,Martes
+L-2024-0033,Friabilidad,Durometro-01,Conforme,Linea A,16:13:31,Martes
+L-2024-0068,Dureza,Balanza-03,Conforme,Linea B,15:48:00,Lunes
+L-2024-0023,pH,Disolutor-02,Conforme,linea a,11:12:38,Martes
+L-2024-0094,Tiempo de desintegracion,,Conforme,Linea A,06:17:33,Viernes
+L-2024-0258,Disolucion 30 min,phmetro-01,Conforme,Linea A,08:47:53,Miercoles
+L-2024-0246,Dureza,Termobalanza-01,Fuera de Especificacion (OOS),Linea B,11:54:29,Lunes
+L-2024-0157,Tiempo de desintegracion,Disolutor-01,Conforme,Linea B,07:34:16,Miercoles
+L-2024-0145,Humedad,Durometro-01,Conforme,Linea A,14:45:27,Lunes
+L-2024-0222,Tiempo de desintegracion,Durometro-01,Conforme,Linea A,09:37:26,Jueves
+L-2024-0190,Espesor,Disolutor-02,Conforme,Linea A,06:46:41,Jueves
+L-2024-0008,Humedad,Disolutor-02,Conforme,linea b,18:07:21,Jueves
+L-2024-0142,Uniformidad de contenido,Disolutor-01,Conforme,Linea A,10:58:52,Martes
+L-2024-0210,Tiempo de desintegracion,Disolutor-02,Conforme,Linea B,19:19:44,Jueves
+L-2024-0101,Humedad,phmetro-01,Conforme,Linea A,14:18:46,Viernes
+L-2024-0099,Espesor,Durometro-01,Conforme,Linea A,15:44:03,Martes
+L-2024-0202,pH,Durometro-01,Conforme,Linea B,08:50:58,Miercoles
+L-2024-0159,Humedad,Disolutor-01,Conforme,Linea B,15:13:50,Lunes
+L-2024-0131,Peso promedio,Balanza-04,Conforme,Linea B,18:17:25,Viernes
+L-2024-0154,Tiempo de desintegracion,HPLC-01,Conforme,Linea A,13:08:09,Miercoles
+L-2024-0035,pH,Termobalanza-01,Conforme,linea b,14:12:35,Martes
+L-2024-0012,pH,HPLC-01,Conforme,Linea B,21:14:56,Miercoles
+L-2024-0124,Friabilidad,HPLC-02,Conforme,Linea B,09:14:23,Lunes
+L-2024-0138,Dureza,HPLC-01,Conforme,Linea B,18:04:26,Jueves
+L-2024-0132,Espesor,Balanza-03,Alerta,Linea B,10:44:35,Lunes
+L-2024-0013,Disolucion 30 min,Disolutor-02,Conforme,linea b,14:01:08,Viernes
+L-2024-0152,Uniformidad de contenido,Balanza-04,Conforme,Linea B,07:36:08,Lunes
+L-2024-0139,Peso promedio,Durometro-01,Conforme,Linea B,11:01:22,Jueves
+L-2024-0076,Peso promedio,Balanza-03,Alerta,Linea B,07:12:10,Lunes
+L-2024-0159,pH,Balanza-04,Conforme,Linea A,21:33:55,Miercoles
+L-2024-0173,Espesor,HPLC-02,Fuera de Especificacion (OOS),Linea A,14:23:58,Lunes
+L-2024-0046,Uniformidad de contenido,Termobalanza-01,Conforme,Linea A,08:04:34,Miercoles
+L-2024-0080,Peso promedio,,Alerta,Linea B,06:44:10,Jueves
+L-2024-0125,Espesor,Durometro-02,Conforme,Linea A,16:58:22,Martes
+L-2024-0064,Friabilidad,Durometro-01,Conforme,Linea B,15:24:39,Jueves
+L-2024-0112,Humedad,Balanza-03,Alerta,Linea B,12:54:28,Lunes
+L-2024-0092,Peso promedio,Termobalanza-01,Conforme,Linea B,16:13:55,Martes
+L-2024-0127,Uniformidad de contenido,Balanza-03,Fuera de Especificacion (OOS),Linea A,10:43:43,Martes
+L-2024-0214,Uniformidad de contenido,HPLC-02,Conforme,Linea A,20:18:18,Lunes
+L-2024-0216,Friabilidad,Disolutor-02,Alerta,Linea B,14:34:30,Lunes
+L-2024-0242,Peso promedio,Disolutor-01,Conforme,Linea B,06:20:18,Miercoles
+L-2024-0039,Humedad,,Fuera de Especificacion (OOS),Linea B,18:40:54,Martes
+L-2024-0060,Friabilidad,Disolutor-02,Conforme,Linea A,13:08:36,Miercoles
+L-2024-0146,Uniformidad de contenido,Durometro-02,Fuera de Especificacion (OOS),linea b,19:56:50,Lunes
+L-2024-0246,Espesor,Durometro-01,Conforme,Linea B,10:16:07,Jueves
+L-2024-0143,pH,HPLC-02,Conforme,Linea B,12:16:15,Miercoles
